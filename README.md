@@ -4,4 +4,4 @@ Before starting my PhD, I received my BS and MS degrees in Mechanical Engineerin
 My research lies at the intersection of Reinforcement Learning, Generative AI, and Robotics. I am interested in building robust, scalable, and open-source algorithms for Learning from Demonstration (LfD).
 
 
-Check out my first work: [DROM] (https://github.com/vincenzopomponi/DROM)
+Check out my first work: (DROM) [https://github.com/vincenzopomponi/DROM]
