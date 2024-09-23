@@ -2,3 +2,7 @@ I am an external PhD student at Università della Svizzera Italiana (USI), Lugan
 Before starting my PhD, I received my BS and MS degrees from the Politecnico di Milano (PoliMi).
 
 My research lies at the intersection of Reinforcement Learning, Generative AI, and Robotics. I am interested in building robust, scalable, and open-source algorithms for Learning from Demonstration (LfD).
+
+
+Check out my first work at:
+https://github.com/vincenzopomponi/DROM
