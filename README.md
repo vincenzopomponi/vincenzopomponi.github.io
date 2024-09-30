@@ -1,29 +1,13 @@
-<div style="display: flex; align-items: flex-start;">
-  <div style="margin-right: 20px;">
-    <img src="[your-image-url-here](https://github.com/vincenzopomponi/vincenzopomponi.github.io/blob/main/foto.png)" alt="Your Photo" style="border-radius: 50%; width: 150px;">
-  </div>
-  <div>
-    ## Vincenzo Pomponi
+## Vincenzo Pomponi
 
-    Hi! I am [Your Name], a passionate researcher and developer working on **robotics**, **AI**, and **spare parts management**.
+<img align="left" width="500" height="500" src="https://github.com/vincenzopomponi/vincenzopomponi.github.io/blob/main/foto.png">
 
-    ## About Me
-    I am currently a researcher at the [University of Applied Sciences and Arts of Southern Switzerland (SUPSI)](https://www.supsi.ch), working in the [Automation Robotics and Machines Laboratory (ARM Lab)](https://www.supsi.ch/arm-lab), under the supervision of Prof. Anna Valente.
+My name is Vincenzo Pomponi.
+I am currently an external PhD student at [Università della Svizzera Italiana (USI)](https://www.usi.ch/en), Lugano, Switzerland. Also, I am a researcher at [University of Applied Sciences and Arts of Southern Switzerland (SUPSI)](https://www.supsi.ch/en/home), in the [Automation Robotics and Machines Laboratory (ARM lab)](https://www.supsi.ch/en/web/isteps/automation-robotics-and-machines), supervised by [Prof. Anna Valente](https://scholar.google.com/citations?hl=en&user=pO9TbIMAAAAJ&view_op=list_works&sortby=pubdate).
+Before starting my PhD, I received my BS and MS degrees in Mechanical Engineering from the [Politecnico di Milano (PoliMi)](https://www.mecheng.polimi.it/?lang=en).
+I completed my master’s thesis in collaboration with [Institute of Intelligent Industrial Technologies and Systems for Advanced Manufacturing (STIIMA-CNR)](https://www.stiima.cnr.it/?lang=en) under the supervision of [Dr. Hamiz-Reza Karimi](https://scholar.google.no/citations?user=YcTS0ZMAAAAJ&hl=en) and [Dr. Loris Roveda](https://scholar.google.com/citations?user=3un_pPgAAAAJ&hl=en). The thesis focused on implementing an Active Preference Learning (APL) algorithm to optimize the robot’s end-effector pose in Human-Robot Collaboration (HRC) while simultaneously improving the human operator’s posture through real-time ergonomic assessments. The article detailing the methodology and results of this work is available at [A framework for human–robot collaboration enhanced by preference learning and ergonomics](https://www.sciencedirect.com/science/article/pii/S073658452400067X).
 
-    - **Master’s Thesis**: I collaborated with the [Institute of Intelligent Industrial Technologies and Systems for Advanced Manufacturing (STIIMA-CNR)](https://www.stiima.cnr.it/?lang=en), focusing on implementing an Active Preference Learning (APL) algorithm for optimizing Human-Robot Collaboration (HRC) and human ergonomics.
-    - **Research Interests**: Reinforcement Learning, Generative AI, Robotics, Spare Parts Management Optimization
+My research lies at the intersection of Reinforcement Learning, Generative AI, and Robotics. I am interested in building robust, scalable, and open-source algorithms for Learning from Demonstration (LfD).
 
-    ## Projects
-    ### [Project 1: Diffusion Model for Robotic Trajectories](https://github.com/yourusername/project1)
-    Implementing diffusion models with Temporal U-Net to generate robotic trajectories combining different task primitives.
 
-    ### [Project 2: Reinforcement Learning for Robotics](https://github.com/yourusername/project2)
-    Advanced RL algorithms applied to real-time decision-making in robotic environments.
-
-    ## Contact
-    - **Email**: [your.email@example.com](mailto:your.email@example.com)
-    - **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourusername)
-    - **Twitter**: [@yourusername](https://twitter.com/yourusername)
-
-  </div>
-</div>
+Check out my first work: [DROM](https://github.com/vincenzopomponi/DROM)
