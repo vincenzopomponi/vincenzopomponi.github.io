@@ -3,8 +3,9 @@
 ![header image](https://github.com/vincenzopomponi/vincenzopomponi.github.io/blob/main/foto.png)
 
 My name is Vincenzo Pomponi.
-I am currently an external PhD student at Università della Svizzera Italiana (USI), Lugano, and I am a researcher at University of Applied Sciences and Arts of Southern Switzerland (SUPSI), Lugano, Switzerland.
-Before starting my PhD, I received my BS and MS degrees in Mechanical Engineering from the Politecnico di Milano (PoliMi).
+I am currently an external PhD student at [Università della Svizzera Italiana (USI)](https://www.usi.ch/en), Lugano, and I am a researcher at [University of Applied Sciences and Arts of Southern Switzerland (SUPSI)](https://www.supsi.ch/en/home), Lugano, Switzerland.
+Before starting my PhD, I received my BS and MS degrees in Mechanical Engineering from the [Politecnico di Milano (PoliMi)](https://www.mecheng.polimi.it/?lang=en).
+I did my master's thesis in collaboration with [Institute of Intelligent Industrial Technologies and Systems for Advanced Manufacturing (STIIMA-CNR)](https://www.stiima.cnr.it/?lang=en) under the supervision of [Dr. Hamiz-Reza Karimi](https://scholar.google.no/citations?user=YcTS0ZMAAAAJ&hl=en) and [Dr. Loris Roveda](https://scholar.google.com/citations?user=3un_pPgAAAAJ&hl=en).
 
 My research lies at the intersection of Reinforcement Learning, Generative AI, and Robotics. I am interested in building robust, scalable, and open-source algorithms for Learning from Demonstration (LfD).
 
