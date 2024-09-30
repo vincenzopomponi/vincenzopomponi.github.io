@@ -1,8 +1,8 @@
 ## Vincenzo Pomponi
 
-My name is Vincenzo Pomponi.
 ![header image](https://github.com/vincenzopomponi/vincenzopomponi.github.io/blob/main/foto.png)
 
+My name is Vincenzo Pomponi.
 I am currently an external PhD student at Università della Svizzera Italiana (USI), Lugano, and I am a researcher at University of Applied Sciences and Arts of Southern Switzerland (SUPSI), Lugano, Switzerland.
 Before starting my PhD, I received my BS and MS degrees in Mechanical Engineering from the Politecnico di Milano (PoliMi).
 
