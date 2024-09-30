@@ -25,4 +25,5 @@ My research lies at the intersection of Reinforcement Learning, Generative AI, a
 <img align="left" height="100" width="200" src="https://github.com/vincenzopomponi/vincenzopomponi.github.io/blob/main/DROM.png">
 
 <br>
+
 [DROM](https://github.com/vincenzopomponi/DROM)
