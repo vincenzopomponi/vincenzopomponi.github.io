@@ -24,4 +24,4 @@ My research lies at the intersection of Reinforcement Learning, Generative AI, a
 <br>
 <img align="left" height="100" width="100" src="https://github.com/vincenzopomponi/vincenzopomponi.github.io/blob/main/APL-Ergonomics.png">
 <br>
-DROM: Multi-task Robotic Manipulation via Diffusion Models [DROM](https://github.com/vincenzopomponi/DROM)
+[DROM](https://github.com/vincenzopomponi/DROM)
