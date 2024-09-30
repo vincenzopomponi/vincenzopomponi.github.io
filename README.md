@@ -10,7 +10,10 @@ I completed my master’s thesis in collaboration with [Institute of Intelligent
 
 
 # Current Research
-My research lies at the intersection of Reinforcement Learning, Generative AI, and Robotics. I am interested in building robust, scalable, and open-source algorithms for Learning from Demonstration (LfD).
+From September 2022 to September 2023 I was a Scientific Collaborator at SUPSI. During this period, I was involved in the [Horizon Europe Fluently](https://www.fluently-horizonproject.eu/) project. My work centered on developing methodologies for teaching robots to collaborate with human operators in completing multiple tasks. Specifically, I focused on implementing Deep Learning algorithms to optimize the robot's movement behavior in shared workspaces, considering the human operator's presence while solving new tasks.
+Since September 2023, I have been an external PhD Student at USI, under the supervision of [Prof. Dr. Luca Maria Gambardella](https://people.idsia.ch/~luca/) and [Prof. Anna Valente](https://scholar.google.com/citations?hl=en&user=pO9TbIMAAAAJ&view_op=list_works&sortby=pubdate).
+My research lies at the intersection of Reinforcement Learning, Generative AI, and Robotics, with a particular focus on Learning from Demonstration (LfD). Through the use of Diffusion Models, I aim to enhance robots' ability to learn and solve novel, complex tasks by leveraging prior knowledge of task primitives.
 
-
-Check out my first work: [DROM](https://github.com/vincenzopomponi/DROM)
+# Publications and preprints
+A framework for human–robot collaboration enhanced by preference learning and ergonomics --> [APL-Ergonomics Article](https://www.sciencedirect.com/science/article/pii/S073658452400067X)
+DROM: Multi-task Robotic Manipulation via Diffusion Models --> [DROM](https://github.com/vincenzopomponi/DROM)
