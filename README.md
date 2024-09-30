@@ -23,4 +23,6 @@ A framework for human–robot collaboration enhanced by preference learning and 
 <br>
 <br>
 <br>
+<img align="left" height="100" width="100" src="https://github.com/vincenzopomponi/vincenzopomponi.github.io/blob/main/APL-Ergonomics.png">
+<br>
 DROM: Multi-task Robotic Manipulation via Diffusion Models [DROM](https://github.com/vincenzopomponi/DROM)
