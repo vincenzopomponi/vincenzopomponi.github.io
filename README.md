@@ -3,7 +3,7 @@
     <img src="[your-image-url-here](https://github.com/vincenzopomponi/vincenzopomponi.github.io/blob/main/foto.png)" alt="Your Photo" style="border-radius: 50%; width: 150px;">
   </div>
   <div>
-    # Your Name
+    ## Vincenzo Pomponi
 
     Hi! I am [Your Name], a passionate researcher and developer working on **robotics**, **AI**, and **spare parts management**.
 
