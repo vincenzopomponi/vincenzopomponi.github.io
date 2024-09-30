@@ -1,6 +1,6 @@
 ## Vincenzo Pomponi
 
-<img align="left" width="500" height="500" src="https://github.com/vincenzopomponi/vincenzopomponi.github.io/blob/main/foto.png">
+<img align="left" width="200" height="200" src="https://github.com/vincenzopomponi/vincenzopomponi.github.io/blob/main/foto.png">
 
 My name is Vincenzo Pomponi.
 I am currently an external PhD student at [Università della Svizzera Italiana (USI)](https://www.usi.ch/en), Lugano, Switzerland. Also, I am a researcher at [University of Applied Sciences and Arts of Southern Switzerland (SUPSI)](https://www.supsi.ch/en/home), in the [Automation Robotics and Machines Laboratory (ARM lab)](https://www.supsi.ch/en/web/isteps/automation-robotics-and-machines), supervised by [Prof. Anna Valente](https://scholar.google.com/citations?hl=en&user=pO9TbIMAAAAJ&view_op=list_works&sortby=pubdate).
