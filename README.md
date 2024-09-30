@@ -17,5 +17,5 @@ My research lies at the intersection of Reinforcement Learning, Generative AI, a
 # Publications and preprints
 <img align="left" height="100" width="100" src="https://github.com/vincenzopomponi/vincenzopomponi.github.io/blob/main/APL-Ergonomics.png">
 A framework for human–robot collaboration enhanced by preference learning and ergonomics --> [APL-Ergonomics Article](https://www.sciencedirect.com/science/article/pii/S073658452400067X)
-$~$
+<br>
 DROM: Multi-task Robotic Manipulation via Diffusion Models [DROM](https://github.com/vincenzopomponi/DROM)
