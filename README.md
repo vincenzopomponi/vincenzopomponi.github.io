@@ -15,7 +15,7 @@ Since September 2023, I have been an external PhD Student at USI, under the supe
 My research lies at the intersection of Reinforcement Learning, Generative AI, and Robotics, with a particular focus on Learning from Demonstration (LfD). Through the use of Diffusion Models, I aim to enhance robots' ability to learn and solve novel, complex tasks by leveraging prior knowledge of task primitives.
 
 # Publications and preprints
-<img align="left" height="100" width="100" src="https://github.com/vincenzopomponi/blob/main/APL-Ergonomics.png">
+<img align="left" height="100" width="100" src="https://github.com/vincenzopomponi/vincenzopomponi.github.io/blob/main/APL-Ergonomics.png">
 
 <br>
 
