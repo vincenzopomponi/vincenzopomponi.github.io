@@ -1,6 +1,6 @@
 ## Vincenzo Pomponi
 
-<img align="left" height="250" src="main/foto.png">
+<img align="left" height="250" src="foto.png">
 
 My name is Vincenzo Pomponi.
 I am currently an external PhD student at [Università della Svizzera Italiana (USI)](https://www.usi.ch/en), Lugano, Switzerland. Also, I am a researcher at [University of Applied Sciences and Arts of Southern Switzerland (SUPSI)](https://www.supsi.ch/en/home), in the [Automation Robotics and Machines Laboratory (ARM lab)](https://www.supsi.ch/en/web/isteps/automation-robotics-and-machines), supervised by [Prof. Anna Valente](https://scholar.google.com/citations?hl=en&user=pO9TbIMAAAAJ&view_op=list_works&sortby=pubdate).
@@ -15,7 +15,7 @@ Since September 2023, I have been an external PhD Student at USI, under the supe
 My research lies at the intersection of Reinforcement Learning, Generative AI, and Robotics, with a particular focus on Learning from Demonstration (LfD). Through the use of Diffusion Models, I aim to enhance robots' ability to learn and solve novel, complex tasks by leveraging prior knowledge of task primitives.
 
 # Publications and preprints
-<img align="left" height="100" width="100" src="main/APL-Ergonomics.png">
+<img align="left" height="100" width="100" src="APL-Ergonomics.png">
 
 <br>
 
