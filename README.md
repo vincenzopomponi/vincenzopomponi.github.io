@@ -24,7 +24,7 @@ My research lies at the intersection of Reinforcement Learning, Generative AI, a
 <br>
 <br>
 <br>
-<img align="left" height="100" width="200" src="main/DROM.png">
+<img align="left" height="100" width="200" src="/main/DROM.png">
 
 <br>
 
