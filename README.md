@@ -23,5 +23,6 @@ My research lies at the intersection of Reinforcement Learning, Generative AI, a
 <br>
 <br>
 <img align="left" height="100" width="100" src="https://github.com/vincenzopomponi/vincenzopomponi.github.io/blob/main/APL-Ergonomics.png">
+
 <br>
 [DROM](https://github.com/vincenzopomponi/DROM)
