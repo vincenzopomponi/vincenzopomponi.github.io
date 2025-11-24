@@ -38,28 +38,22 @@ with a particular focus on **Learning from Demonstration (LfD)**. I am especiall
 
 # 📚 Publications & Preprints
 
-### **A framework for human-robot collaboration enhanced by preference learning and ergonomics**
+### [**A framework for human-robot collaboration enhanced by preference learning and ergonomics**](https://www.sciencedirect.com/science/article/pii/S073658452400067X)
 <img align="left" height="100" width="100" src="APL-Ergonomics.png" alt="APL Ergonomics">
 
-[Link to article](https://www.sciencedirect.com/science/article/pii/S073658452400067X)
-
 <br clear="left"/>
 
 ---
 
-### **DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks**
+### [**DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks**](https://arxiv.org/abs/2511.16223)
 <img align="left" height="100" width="200" src="DMG_framework.png" alt="D-MG image">
 
-[arXiv preprint](https://arxiv.org/abs/2511.16223)
-
 <br clear="left"/>
 
 ---
 
-### **DROM: Multi-task Robotic Manipulation via Diffusion Models**
+### [**DROM: Multi-task Robotic Manipulation via Diffusion Models**](https://github.com/vincenzopomponi/DROM)
 <img align="left" height="100" width="200" src="DROM.png" alt="DROM image">
-
-[GitHub repository](https://github.com/vincenzopomponi/DROM)
 
 <br clear="left"/>
 
