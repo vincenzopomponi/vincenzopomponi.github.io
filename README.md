@@ -1,31 +1,65 @@
-## Vincenzo Pomponi
+Vincenzo Pomponi
+<img align="left" height="250" src="foto.png" alt="Profile photo">
 
-<img align="left" height="250" src="foto.png">
+Hello! I’m Vincenzo Pomponi, an external PhD student at the
+[Università della Svizzera Italiana (USI)](https://www.usi.ch/en)
+, Lugano, Switzerland, and a researcher at the
+[University of Applied Sciences and Arts of Southern Switzerland (SUPSI)](https://www.supsi.ch/en/home)
+, in the
+[Automation Robotics and Machines Laboratory (ARM lab)](https://www.supsi.ch/en/web/isteps/automation-robotics-and-machines)
+, supervised by
+[Prof. Anna Valente](https://scholar.google.com/citations?hl=en&user=pO9TbIMAAAAJ&view_op=list_works&sortby=pubdate)
+.
 
-My name is Vincenzo Pomponi.
-I am currently an external PhD student at [Università della Svizzera Italiana (USI)](https://www.usi.ch/en), Lugano, Switzerland. Also, I am a researcher at [University of Applied Sciences and Arts of Southern Switzerland (SUPSI)](https://www.supsi.ch/en/home), in the [Automation Robotics and Machines Laboratory (ARM lab)](https://www.supsi.ch/en/web/isteps/automation-robotics-and-machines), supervised by [Prof. Anna Valente](https://scholar.google.com/citations?hl=en&user=pO9TbIMAAAAJ&view_op=list_works&sortby=pubdate).
-Before starting my PhD, I received my BS and MS degrees in Mechanical Engineering from the [Politecnico di Milano (PoliMi)](https://www.mecheng.polimi.it/?lang=en).
-I completed my master’s thesis in collaboration with [Institute of Intelligent Industrial Technologies and Systems for Advanced Manufacturing (STIIMA-CNR)](https://www.stiima.cnr.it/?lang=en) under the supervision of [Dr. Hamiz-Reza Karimi](https://scholar.google.no/citations?user=YcTS0ZMAAAAJ&hl=en) and [Dr. Loris Roveda](https://scholar.google.com/citations?user=3un_pPgAAAAJ&hl=en). The thesis focused on implementing an Active Preference Learning (APL) algorithm to optimize the robot’s end-effector pose in Human-Robot Collaboration (HRC) while simultaneously improving the human operator’s posture through real-time ergonomic assessments. The article detailing the methodology and results of this work are available [here](https://www.sciencedirect.com/science/article/pii/S073658452400067X).
+I hold a B.Sc. and M.Sc. in Mechanical Engineering from the
+[Politecnico di Milano (PoliMi)](https://www.mecheng.polimi.it/?lang=en)
+.
+
+My master’s thesis—developed in collaboration with the
+[Institute of Intelligent Industrial Technologies and Systems for Advanced Manufacturing (STIIMA-CNR)](https://www.stiima.cnr.it/?lang=en)
+ and supervised by
+[Dr. Hamiz-Reza Karimi](https://scholar.google.no/citations?user=YcTS0ZMAAAAJ&hl=en)
+ and
+[Dr. Loris Roveda](https://scholar.google.com/citations?user=3un_pPgAAAAJ&hl=en)
+—focused on Active Preference Learning (APL) to optimize robot end-effector poses in Human–Robot Collaboration (HRC).
+This work includes real-time ergonomic assessments to improve human posture during shared tasks.
+The related publication is available [here](https://www.sciencedirect.com/science/article/pii/S073658452400067X).
+
+🔬 Current Research
+
+From September 2022 to September 2023, I worked as a Scientific Collaborator at SUPSI, contributing to the
+[Horizon Europe Fluently](https://www.fluently-horizonproject.eu/) project. My work focused on developing methods for teaching robots to collaborate with humans across multiple tasks.
+
+Since September 2023, I have been pursuing my PhD at USI, supervised by
+[Prof. Dr. Luca Maria Gambardella](https://people.idsia.ch/~luca/) and [Prof. Dr. Anna Valente](https://scholar.google.com/citations?hl=en&user=pO9TbIMAAAAJ&view_op=list_works&sortby=pubdate).
+
+My research sits at the intersection of:
+
+Reinforcement Learning
+
+Generative AI
+
+Robotics
+
+with a particular focus on Learning from Demonstration (LfD). I am especially interested in how Diffusion Models can enhance robots’ ability to learn from prior knowledge, enabling them to perform novel and complex tasks by composing or inferring task primitives.
+
+📚 Publications & Preprints
+A framework for human-robot collaboration enhanced by preference learning and ergonomics
+<img align="left" height="100" width="100" src="APL-Ergonomics.png" alt="APL Ergonomics">
+
+[Link to article](https://www.sciencedirect.com/science/article/pii/S073658452400067X)
 
 
+<br clear="left"/>
+DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks
+<img align="left" height="100" width="200" src="DROM.png" alt="DROM image">
 
-# Current Research
-From September 2022 to September 2023 I was a Scientific Collaborator at SUPSI. During this period, I was involved in the [Horizon Europe Fluently](https://www.fluently-horizonproject.eu/) project. My work centered on developing methodologies for teaching robots to collaborate with human operators in completing multiple tasks. Specifically, I focused on implementing Deep Learning algorithms to optimize the robot's movement behavior in shared workspaces, considering the human operator's presence while solving new tasks.
-Since September 2023, I have been an external PhD Student at USI, under the supervision of [Prof. Dr. Luca Maria Gambardella](https://people.idsia.ch/~luca/) and [Prof. Anna Valente](https://scholar.google.com/citations?hl=en&user=pO9TbIMAAAAJ&view_op=list_works&sortby=pubdate).
-My research lies at the intersection of Reinforcement Learning, Generative AI, and Robotics, with a particular focus on Learning from Demonstration (LfD). Through the use of Diffusion Models, I aim to enhance robots' ability to learn and solve novel, complex tasks by leveraging prior knowledge of task primitives.
+[arXiv preprint](https://arxiv.org/abs/2511.16223)
 
-# Publications and preprints
-<img align="left" height="100" width="100" src="APL-Ergonomics.png">
+<br clear="left"/>
+DROM: Multi-task Robotic Manipulation via Diffusion Models
+<img align="left" height="100" width="200" src="DROM.png" alt="DROM image">
 
-<br>
+[GitHub repository](https://github.com/vincenzopomponi/DROM)
 
-[A framework for human-robot collaboration enhanced by preference learning and ergonomics](https://www.sciencedirect.com/science/article/pii/S073658452400067X)
-
-<br>
-<br>
-<br>
-<img align="left" height="100" width="200" src="DROM.png">
-
-<br>
-
-[DROM: Multi-task Robotic Manipulation via Diffusion Models](https://github.com/vincenzopomponi/DROM)
+<br clear="left"/>
