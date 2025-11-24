@@ -59,7 +59,7 @@ with a particular focus on **Learning from Demonstration (LfD)**. I am especiall
 ---
 
 ### **DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks**
-<img align="left" height="100" width="200" src="DROM.png" alt="DROM image">
+<img align="left" height="100" width="200" src="DMG_framework.png" alt="D-MG image">
 
 [arXiv preprint](https://arxiv.org/abs/2511.16223)
 
