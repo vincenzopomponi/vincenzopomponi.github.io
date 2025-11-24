@@ -12,9 +12,7 @@ I hold B.Sc. and M.Sc. degrees in Mechanical Engineering from the
 [Politecnico di Milano (PoliMi)](https://www.mecheng.polimi.it/?lang=en).
 
 My master’s thesis—developed in collaboration with the  
-[Institute of Intelligent Industrial Technologies and Systems for Advanced Manufacturing (STIIMA-CNR)](https://www.stiima.cnr.it/?lang=en) and supervised by  
-[Dr. Hamiz-Reza Karimi](https://scholar.google.no/citations?user=YcTS0ZMAAAAJ&hl=en) and  
-[Dr. Loris Roveda](https://scholar.google.com/citations?user=3un_pPgAAAAJ&hl=en)—focused on **Active Preference Learning (APL)** to optimize robot end-effector poses in **Human–Robot Collaboration (HRC)**.  
+[Institute of Intelligent Industrial Technologies and Systems for Advanced Manufacturing (STIIMA-CNR)](https://www.stiima.cnr.it/?lang=en) and supervised by [Dr. Hamiz-Reza Karimi](https://scholar.google.no/citations?user=YcTS0ZMAAAAJ&hl=en) and [Dr. Loris Roveda](https://scholar.google.com/citations?user=3un_pPgAAAAJ&hl=en)—focused on **Active Preference Learning (APL)** to optimize robot end-effector poses in **Human–Robot Collaboration (HRC)**.  
 This work incorporates real-time ergonomic assessments to enhance human posture during shared tasks.  
 The related publication is available [here](https://www.sciencedirect.com/science/article/pii/S073658452400067X).
 
