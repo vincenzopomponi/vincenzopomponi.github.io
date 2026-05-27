@@ -136,26 +136,52 @@ The work proposed an **Active Preference Learning (APL)** framework for optimizi
 
 ---
 
-<td bgcolor="#f5f7fa" width="450">
+<table>
+<tr>
 
-<div style="padding:15px;">
+<td width="420" align="center">
 
-### DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks
+<img 
+    src="figures/DMG_tasks.png" 
+    width="390" 
+    alt="DynaMimicGen Tasks"
+    style="border-radius:14px;"
+>
 
-📍 **Accepted at IEEE Robotics and Automation Letters (RA-L)**
+</td>
 
-DynaMimicGen generates diverse robotic trajectories from a very small number of demonstrations using DMP-based perturbation strategies.
+<td width="520" valign="top" bgcolor="#f6f8fa">
+
+<div style="padding:18px;">
+
+<h3>
+DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks
+</h3>
+
+<p>
+📍 <b>Accepted at IEEE Robotics and Automation Letters (RA-L)</b>
+</p>
+
+<p>
+DynaMimicGen (D-MG) transforms a very small number of demonstrations into thousands of diverse robotic trajectories through Dynamic Movement Primitives (DMPs) and adaptive perturbation strategies, enabling scalable imitation learning with minimal supervision.
+</p>
 
 <br>
 
 <p align="center">
 
 <a href="https://github.com/automation-robotics-machines/DynaMimicGen">
-<img src="https://img.shields.io/badge/GitHub-Repository-black?logo=github">
+<img 
+    src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" 
+    alt="GitHub Repository"
+>
 </a>
 
 <a href="https://arxiv.org/abs/2511.16223">
-<img src="https://img.shields.io/badge/arXiv-2511.16223-b31b1b?logo=arxiv">
+<img 
+    src="https://img.shields.io/badge/arXiv-2511.16223-b31b1b?style=for-the-badge&logo=arxiv" 
+    alt="arXiv Paper"
+>
 </a>
 
 </p>
@@ -163,6 +189,9 @@ DynaMimicGen generates diverse robotic trajectories from a very small number of 
 </div>
 
 </td>
+
+</tr>
+</table>
 
 ---
 
