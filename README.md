@@ -124,26 +124,23 @@ My master's thesis was developed in collaboration with:
 
 # 📚 Publications & Projects
 
-## 🦾 Active Preference Learning for Human–Robot Collaboration
-
-The work proposed an **Active Preference Learning (APL)** framework for optimizing robot end-effector poses during collaborative tasks while integrating real-time ergonomic assessment of the human operator.
-
-The system improves collaboration quality by adapting robotic behavior according to ergonomic feedback and human preferences.
-
-📄 **Publications**
-
 ## 📄 A framework for human-robot collaboration enhanced by preference learning and ergonomics
 
 📍 **Robotics and Computer-Integrated Manufacturing**
 
+The work proposed an **Active Preference Learning (APL)** framework for optimizing robot end-effector poses during collaborative tasks while integrating real-time ergonomic assessment of the human operator. The system improves collaboration quality by adapting robotic behavior according to ergonomic feedback and human preferences.
+
 <p align="center">
 <a href="https://www.sciencedirect.com/science/article/pii/S073658452400067X"><img alt="PDF" src="https://img.shields.io/badge/PDF-Paper-red?logo=adobeacrobatreader&logoColor=white"></a>
 </p>
+
 ---
 
 ## 📄 DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks
 
 📍 **Accepted at IEEE Robotics and Automation Letters (RA-L)**
+
+DynaMimicGen (D-MG) turns 1–2 demos into thousands of diverse, adaptive robotic trajectories using DMPs and dynamic perturbations, enabling strong imitation-learning performance with minimal supervision.
 
 <p align="center">
   <a href="#getting-started"><img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-blue"></a>
@@ -154,7 +151,7 @@ The system improves collaboration quality by adapting robotic behavior according
 
 ---
 
-## 📄 DROM: Multi-task Robotic Manipulation via Diffusion Models
+## 📄 DROM: A Multi-Skill Robotic Manipulation of Challenging Objects via Language-Guided Diffusion
 
 📍 **Currently under review at IROS 2026**
 
