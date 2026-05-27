@@ -1,70 +1,85 @@
 # Vincenzo Pomponi
 
 <p align="center">
-  <img src="figures/foto.png" alt="Profile photo" width="230" style="border-radius:12px;">
+  <img src="figures/foto.png" width="230" alt="Vincenzo Pomponi" style="border-radius:16px;">
 </p>
 
+<h2 align="center">PhD Researcher in Machine Learning & Robotics</h2>
+
 <p align="center">
-  <b>PhD Researcher in Machine Learning & Robotics</b><br>
   Università della Svizzera Italiana (USI) · SUPSI ARM Lab
 </p>
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=ACuxQloAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google_Scholar-Research-blue?logo=googlescholar&logoColor=white">
+    <img src="https://img.shields.io/badge/Google_Scholar-Publications-blue?logo=googlescholar&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/vincenzo-pomponi-840649208/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.researchgate.net/profile/Vincenzo-Pomponi-2?ev=hdr_xprf">
-    <img src="https://img.shields.io/badge/ResearchGate-Publications-00CCBB?logo=researchgate&logoColor=white">
+    <img src="https://img.shields.io/badge/ResearchGate-Research-00CCBB?logo=researchgate&logoColor=white">
+  </a>
+  <a href="https://github.com/vincenzopomponi">
+    <img src="https://img.shields.io/badge/GitHub-Projects-black?logo=github&logoColor=white">
   </a>
 </p>
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
 Hello! I’m **Vincenzo Pomponi**, an external PhD student at the [Università della Svizzera Italiana (USI)](https://www.usi.ch/en), Lugano, Switzerland, and a researcher at the [University of Applied Sciences and Arts of Southern Switzerland (SUPSI)](https://www.supsi.ch/en/home), within the [Automation Robotics and Machines Laboratory (ARM Lab)](https://www.supsi.ch/en/web/isteps/automation-robotics-and-machines).
 
 I am supervised by:
 
-* [Prof. Anna Valente](https://scholar.google.com/citations?hl=en&user=pO9TbIMAAAAJ&view_op=list_works&sortby=pubdate)
-* [Prof. Luca Maria Gambardella](https://people.idsia.ch/~luca/)
+- [Prof. Anna Valente](https://scholar.google.com/citations?hl=en&user=pO9TbIMAAAAJ&view_op=list_works&sortby=pubdate)
+- [Prof. Luca Maria Gambardella](https://people.idsia.ch/~luca/)
 
-I hold both B.Sc. and M.Sc. degrees in Mechanical Engineering from the [Politecnico di Milano (PoliMi)](https://www.mecheng.polimi.it/?lang=en).
+I obtained both my **B.Sc.** and **M.Sc.** degrees in Mechanical Engineering from the [Politecnico di Milano (PoliMi)](https://www.mecheng.polimi.it/?lang=en).
 
-My academic journey focuses on bridging:
+My research focuses on the intersection of:
 
 > **Machine Learning · Generative AI · Robotics**
 
-with a strong emphasis on intelligent robotic manipulation and Learning from Demonstration (LfD).
+with particular emphasis on:
+
+- Learning from Demonstration (LfD)
+- Diffusion-based robotic policies
+- Multi-task robotic manipulation
+- Vision-Language-Action models
+- Generative robot learning systems
 
 ---
 
 # 🔬 Research Interests
 
-My research lies at the intersection of:
+My current research investigates how **Generative AI** can improve robotic autonomy and generalization capabilities.
 
-* 🤖 **Robotics**
-* 🧠 **Generative AI**
-* 📈 **Reinforcement Learning**
-* 🎯 **Learning from Demonstration (LfD)**
-* 🌌 **Diffusion Models for Robotics**
-* 🦾 **Multi-task Robotic Manipulation**
+Main topics include:
 
-I am particularly interested in how **Diffusion Models** can enable robots to:
+- 🤖 **Robot Learning**
+- 🧠 **Generative AI**
+- 📈 **Reinforcement Learning**
+- 🌌 **Diffusion Models**
+- 🎯 **Learning from Demonstration**
+- 🦾 **Manipulation Policies**
+- 👁️ **Vision-Language-Action Models**
+- 🔄 **Task Generalization**
 
-* generalize to unseen tasks,
-* compose learned task primitives,
-* exploit prior demonstrations,
-* perform robust long-horizon manipulation.
+I am particularly interested in enabling robots to:
+
+- generalize to unseen tasks,
+- compose learned behaviors,
+- exploit prior demonstrations,
+- reason over long-horizon manipulation tasks,
+- learn robust policies from multimodal data.
 
 ---
 
 # 🏛 Research Experience
 
-## SUPSI — Scientific Collaborator
+## 🔹 SUPSI — Scientific Collaborator
 
 📅 **September 2022 – September 2023**
 
@@ -72,42 +87,57 @@ At SUPSI, I contributed to the European Horizon project:
 
 ### 🌍 [Fluently Project](https://www.fluently-horizonproject.eu/)
 
-focused on developing advanced robot teaching methodologies for human–robot collaboration across multiple industrial tasks.
+focused on developing advanced robot teaching methodologies for Human–Robot Collaboration (HRC) across multiple industrial tasks.
+
+My work involved:
+
+- robot programming by demonstration,
+- collaborative robotics,
+- task adaptation strategies,
+- industrial automation workflows.
 
 ---
 
-## USI — PhD Researcher
+## 🔹 USI — PhD Researcher
 
 📅 **Since September 2023**
 
 Currently pursuing a PhD at USI in collaboration with SUPSI ARM Lab.
 
-My current work focuses on:
+My ongoing research focuses on:
 
-* Diffusion-based robotic policies
-* Generative task representations
-* Vision-Language-Action models
-* Robotic manipulation learning
-* Data generation for robot learning
+- Diffusion Policies for robotics
+- Generative robotic manipulation
+- Vision-Language-Action architectures
+- Data generation for robot learning
+- Multi-task policy learning
+- Foundation models for robotics
 
 ---
 
 # 🎓 Master Thesis
 
-My master thesis was developed in collaboration with:
+My master's thesis was developed in collaboration with:
 
-* [STIIMA-CNR](https://www.stiima.cnr.it/?lang=en)
-* [Dr. Hamid-Reza Karimi](https://scholar.google.no/citations?user=YcTS0ZMAAAAJ&hl=en)
-* [Dr. Loris Roveda](https://scholar.google.com/citations?user=3un_pPgAAAAJ&hl=en)
+- [STIIMA-CNR](https://www.stiima.cnr.it/?lang=en)
+- [Dr. Hamid-Reza Karimi](https://scholar.google.no/citations?user=YcTS0ZMAAAAJ&hl=en)
+- [Dr. Loris Roveda](https://scholar.google.com/citations?user=3un_pPgAAAAJ&hl=en)
 
-The work focused on:
+---
 
-## **Active Preference Learning for Human–Robot Collaboration**
+## 🦾 Active Preference Learning for Human–Robot Collaboration
 
-The framework optimizes robot end-effector poses while integrating real-time ergonomic assessment to improve operator posture during collaboration.
+The work proposed an **Active Preference Learning (APL)** framework for optimizing robot end-effector poses during collaborative tasks while integrating real-time ergonomic assessment of the human operator.
 
-📄 Publication:
-[A framework for human-robot collaboration enhanced by preference learning and ergonomics](https://www.sciencedirect.com/science/article/pii/S073658452400067X)
+The system improves collaboration quality by adapting robotic behavior according to ergonomic feedback and human preferences.
+
+📄 **Publication**
+
+[**A framework for human-robot collaboration enhanced by preference learning and ergonomics**](https://www.sciencedirect.com/science/article/pii/S073658452400067X)
+
+<p align="center">
+  <img src="figures/APL-Ergonomics.png" width="700" style="border-radius:14px;">
+</p>
 
 ---
 
@@ -115,21 +145,23 @@ The framework optimizes robot end-effector poses while integrating real-time erg
 
 ---
 
-## 📄 A framework for human-robot collaboration enhanced by preference learning and ergonomics
-
-<p align="center">
-  <a href="https://www.sciencedirect.com/science/article/pii/S073658452400067X">
-    <img src="figures/APL-Ergonomics.png" alt="APL Ergonomics" width="700" style="border-radius:12px;">
-  </a>
-</p>
-
----
-
 ## 📄 DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks
 
+📍 **Accepted at IEEE Robotics and Automation Letters (RA-L)**
+
 <p align="center">
+  <img src="figures/DMG_framework.png" width="700" style="border-radius:14px;">
+</p>
+
+<p align="center">
+  <a href="https://automation-robotics-machines.github.io/dynamimicgen.github.io/">
+    <img src="https://img.shields.io/badge/Project_Website-Online-orange?style=for-the-badge">
+  </a>
+  <a href="https://github.com/automation-robotics-machines/DynaMimicGen">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
+  </a>
   <a href="https://arxiv.org/abs/2511.16223">
-    <img src="figures/DMG_framework.png" alt="DynaMimicGen" width="700" style="border-radius:12px;">
+    <img src="https://img.shields.io/badge/arXiv-2511.16223-b31b1b?style=for-the-badge&logo=arxiv">
   </a>
 </p>
 
@@ -137,11 +169,13 @@ The framework optimizes robot end-effector poses while integrating real-time erg
 
 ## 📄 DROM: Multi-task Robotic Manipulation via Diffusion Models
 
+📍 **Currently under review at IROS 2026**
+
 <p align="center">
-  <a href="https://github.com/vincenzopomponi/DROM">
-    <img src="figures/DROM.jpg" alt="DROM" width="700" style="border-radius:12px;">
-  </a>
+  <img src="figures/DROM.jpg" width="700" style="border-radius:14px;">
 </p>
+
+DROM investigates how diffusion-based architectures can enable robust multi-task robotic manipulation through generative policy learning.
 
 ---
 
@@ -149,27 +183,69 @@ The framework optimizes robot end-effector poses while integrating real-time erg
 
 I actively develop and share educational and research material related to:
 
-* Diffusion Models
-* Generative AI for Robotics
-* Robot Learning
-* PyTorch implementations
-* Learning from Demonstration
+- Diffusion Models
+- Robot Learning
+- Generative AI for Robotics
+- PyTorch implementations
+- Learning from Demonstration
+- Robotics education
 
-Recent academic lectures include:
+---
 
-* **Diffusion Models — From Mathematical Foundations to Practical Coding**
-* DDPM & DDIM sampling
-* Diffusion architectures for robotic policies
+## 🎓 Teaching Activities
+
+### 📘 Diffusion Models — From Mathematical Foundations to Practical Coding
+📍 Politecnico di Milano (PoliMi)
+
+Topics covered:
+
+- Forward & reverse diffusion processes
+- DDPM & DDIM sampling
+- Diffusion architectures
+- Mathematical derivations
+- Practical Python implementation
+
+🔗 Repository:
+
+<p align="center">
+  <a href="https://github.com/vincenzopomponi/chaos2clarity">
+    <img src="https://img.shields.io/badge/GitHub-chaos2clarity-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+### 🤖 Robotic Laboratory — Collaborative Robotics Practical Sessions
+📍 SUPSI
+
+Hands-on laboratory sessions focused on:
+
+- collaborative robot programming,
+- robotic manipulation,
+- industrial automation,
+- safe human–robot interaction.
+
+---
+
+# 🧪 Reviewing Activity
+
+I currently serve as reviewer for:
+
+- 📄 **IEEE Robotics and Automation Letters (RA-L)** — 2026
+- 🤖 **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)** — 2026
+- 🚀 **IEEE International Conference on Robotics and Automation (ICRA)** — 2025
+- 📚 **The International Journal of Robotics Research (IJRR)** — 2025
 
 ---
 
 # 🌐 Links
 
-| Platform       | Link                                                                                                                                       |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| LinkedIn       | [https://www.linkedin.com/in/vincenzo-pomponi-840649208/](https://www.linkedin.com/in/vincenzo-pomponi-840649208/)                         |
-| Google Scholar | [https://scholar.google.com/citations?user=ACuxQloAAAAJ&hl=en](https://scholar.google.com/citations?user=ACuxQloAAAAJ&hl=en)               |
-| ResearchGate   | [https://www.researchgate.net/profile/Vincenzo-Pomponi-2?ev=hdr_xprf](https://www.researchgate.net/profile/Vincenzo-Pomponi-2?ev=hdr_xprf) |
+| Platform | Link |
+|---|---|
+| Google Scholar | https://scholar.google.com/citations?user=ACuxQloAAAAJ&hl=en |
+| LinkedIn | https://www.linkedin.com/in/vincenzo-pomponi-840649208/ |
+| ResearchGate | https://www.researchgate.net/profile/Vincenzo-Pomponi-2 |
+| GitHub | https://github.com/vincenzopomponi |
 
 ---
 
@@ -177,14 +253,16 @@ Recent academic lectures include:
 
 Feel free to connect for:
 
-* research collaborations,
-* academic discussions,
-* robotics & AI projects,
-* open-source contributions.
+- research collaborations,
+- academic discussions,
+- robotics & AI projects,
+- open-source contributions.
+
+📧 **vincenzo.pomponi@supsi.ch**
 
 ---
 
-# ⚡ Google Site Verification
+# ⚡ Website Verification
 
 This repository also includes the Google verification file:
 
@@ -192,10 +270,12 @@ This repository also includes the Google verification file:
 google521c0d1b90fcdd5c.html
 ```
 
-used for domain and search-console verification purposes.
+used for Google Search Console and website ownership verification.
 
 ---
 
 <p align="center">
-  <i>"Teaching robots to learn, generalize, and reason through generative intelligence."</i>
+  <i>
+    “Teaching robots to learn, generalize, and reason through generative intelligence.”
+  </i>
 </p>
