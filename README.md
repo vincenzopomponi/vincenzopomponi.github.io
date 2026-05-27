@@ -140,7 +140,7 @@ The work proposed an **Active Preference Learning (APL)** framework for optimizi
 <tr>
 
 <td width="240">
-<img src="figures/DMG_framework.png" width="220" style="border-radius:12px;">
+<img src="figures/DMG_tasks.png" width="220" style="border-radius:12px;">
 </td>
 
 <td>
