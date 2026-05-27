@@ -144,7 +144,6 @@ The system improves collaboration quality by adapting robotic behavior according
 📍 **Accepted at IEEE Robotics and Automation Letters (RA-L)**
 
 <p align="center">
-  <a href="#citation"><img alt="Cite this" src="https://img.shields.io/badge/Cite-this-blue"></a>
   <a href="#getting-started"><img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-blue"></a>
   <a href="https://github.com/automation-robotics-machines/DynaMimicGen"><img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-Repository-black?logo=github"></a>
   <a href="https://arxiv.org/abs/2511.16223"><img alt="arXiv" src="https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv"></a>
