@@ -128,12 +128,12 @@ My master's thesis was developed in collaboration with:
 <tr>
 
 <td width="400">
-<img src="figures/DMG_tasks.png" width="380" style="border-radius:12px;">
+<img src="figures/APL.png" width="380" style="border-radius:12px;">
 </td>
 
 <td>
 
-## 📄 A framework for human-robot collaboration enhanced by preference learning and ergonomics
+## A framework for human-robot collaboration enhanced by preference learning and ergonomics
 
 📍 **Robotics and Computer-Integrated Manufacturing**
 
