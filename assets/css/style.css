@@ -1,0 +1,185 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f5f5f5;
+    color: #222;
+    line-height: 1.7;
+}
+
+/* NAVBAR */
+
+nav {
+    width: 100%;
+    background: white;
+    padding: 20px 8%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+    position: sticky;
+    top: 0;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 25px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+nav ul li a:hover,
+nav ul li a.active {
+    color: #0077ff;
+}
+
+/* HERO */
+
+.hero {
+    text-align: center;
+    padding: 80px 20px;
+}
+
+.hero img {
+    width: 230px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+
+.hero h1 {
+    font-size: 54px;
+    margin-bottom: 10px;
+}
+
+.hero h2 {
+    font-size: 28px;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #666;
+}
+
+/* BUTTONS */
+
+.buttons {
+    margin-top: 30px;
+}
+
+.buttons a {
+    display: inline-block;
+    margin: 10px;
+    padding: 12px 22px;
+    background: #0077ff;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.buttons a:hover {
+    background: #005fd1;
+}
+
+/* PAGE */
+
+.page,
+.content {
+    max-width: 1000px;
+    margin: auto;
+    padding: 60px 20px;
+}
+
+.page h1,
+.content h2 {
+    margin-bottom: 25px;
+    font-size: 42px;
+}
+
+.page h2 {
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+
+.page p,
+.content p {
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+/* CARDS */
+
+.card,
+.publication {
+    background: white;
+    padding: 30px;
+    border-radius: 14px;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.06);
+}
+
+.card h2,
+.publication h2 {
+    margin-bottom: 15px;
+}
+
+.card a,
+.publication a {
+    display: inline-block;
+    margin-top: 15px;
+    text-decoration: none;
+    color: #0077ff;
+    font-weight: bold;
+}
+
+/* LISTS */
+
+ul {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* MOBILE */
+
+@media(max-width: 900px) {
+
+    nav {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    nav ul {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .hero h1 {
+        font-size: 40px;
+    }
+
+    .hero h2 {
+        font-size: 22px;
+    }
+
+}
