@@ -127,8 +127,8 @@ My master's thesis was developed in collaboration with:
 <table>
 <tr>
 
-<td width="400">
-<img src="figures/APL.png" width="300" style="border-radius:12px;">
+<td width="400" align="center">
+    <img src="figures/APL.png" width="300" style="border-radius:12px;">
 </td>
 
 <td>
