@@ -2,5 +2,3 @@ title: Vincenzo Pomponi
 description: PhD Student in Generative AI and Robotics at USI and SUPSI ARM Lab
 url: "https://vincenzopomponi.github.io"
 theme: minima
-plugins:
-  - jekyll-seo-tag
