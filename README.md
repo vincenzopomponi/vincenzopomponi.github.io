@@ -133,9 +133,9 @@ My master's thesis was developed in collaboration with:
 
 <td>
 
-### DROM: A Multi-Skill Robotic Manipulation of Challenging Objects via Language-Guided Diffusion
+**DROM: A Multi-Skill Robotic Manipulation of Challenging Objects via Language-Guided Diffusion**
 
-📍 **Under review at IROS 2026**
+📍 Under review at IROS 2026
 
 DROM investigates how diffusion-based architectures can enable robust multi-task robotic manipulation through generative policy learning.
 
@@ -157,9 +157,9 @@ DROM investigates how diffusion-based architectures can enable robust multi-task
 
 <td>
 
-### DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks
+**DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks**
 
-📍 **RA-L 2026**
+📍 RA-L 2026
 
 DynaMimicGen generates diverse robotic trajectories from a very small number of demonstrations using DMP-based perturbation strategies.
 
@@ -189,9 +189,9 @@ DynaMimicGen generates diverse robotic trajectories from a very small number of 
 
 <td>
 
-## Human-robot collaborative transport personalization via Dynamic Movement Primitives and velocity scaling
+**Human-robot collaborative transport personalization via Dynamic Movement Primitives and velocity scaling**
 
-📍 **RO-MAN 2025**
+📍 RO-MAN 2025
 
 This work introduces a novel approach to generate personalized trajectories using Dynamic Movement Primitives (DMPs), enhanced with real-time velocity scaling based on human feedback. The method was rigorously tested in industrial-grade experiments, focusing on the collaborative transport of an engine cowl lip section. 
 
@@ -215,9 +215,9 @@ This work introduces a novel approach to generate personalized trajectories usin
 
 <td>
 
-## A framework for human-robot collaboration enhanced by preference learning and ergonomics
+**A framework for human-robot collaboration enhanced by preference learning and ergonomics**
 
-📍 **Robotics and Computer-Integrated Manufacturing 2024**
+📍 Robotics and Computer-Integrated Manufacturing 2024
 
 The work proposes an **Active Preference Learning (APL)** framework for optimizing robot end-effector poses during collaborative tasks while integrating real-time ergonomic assessment of the human operator. The system improves collaboration quality by adapting robotic behavior according to ergonomic feedback and human preferences.
 
