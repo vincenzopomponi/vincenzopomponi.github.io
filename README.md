@@ -135,10 +135,6 @@ The system improves collaboration quality by adapting robotic behavior according
 
 [**A framework for human-robot collaboration enhanced by preference learning and ergonomics**](https://www.sciencedirect.com/science/article/pii/S073658452400067X)
 
-<p align="center">
-  <img src="figures/APL-Ergonomics.png" width="700" style="border-radius:14px;">
-</p>
-
 ---
 
 # 📚 Publications & Projects
@@ -148,10 +144,6 @@ The system improves collaboration quality by adapting robotic behavior according
 ## 📄 DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks
 
 📍 **Accepted at IEEE Robotics and Automation Letters (RA-L)**
-
-<p align="center">
-  <img src="figures/DMG_framework.png" width="700" style="border-radius:14px;">
-</p>
 
 <p align="center">
   <a href="https://automation-robotics-machines.github.io/dynamimicgen.github.io/">
@@ -170,10 +162,6 @@ The system improves collaboration quality by adapting robotic behavior according
 ## 📄 DROM: Multi-task Robotic Manipulation via Diffusion Models
 
 📍 **Currently under review at IROS 2026**
-
-<p align="center">
-  <img src="figures/DROM.jpg" width="700" style="border-radius:14px;">
-</p>
 
 DROM investigates how diffusion-based architectures can enable robust multi-task robotic manipulation through generative policy learning.
 
@@ -209,7 +197,7 @@ Topics covered:
 
 <p align="center">
   <a href="https://github.com/vincenzopomponi/chaos2clarity">
-    <img src="https://img.shields.io/badge/GitHub-chaos2clarity-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?logo=github">
   </a>
 </p>
 
@@ -259,18 +247,6 @@ Feel free to connect for:
 - open-source contributions.
 
 📧 **vincenzo.pomponi@supsi.ch**
-
----
-
-# ⚡ Website Verification
-
-This repository also includes the Google verification file:
-
-```text
-google521c0d1b90fcdd5c.html
-```
-
-used for Google Search Console and website ownership verification.
 
 ---
 
