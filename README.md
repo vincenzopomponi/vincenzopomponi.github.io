@@ -146,15 +146,11 @@ The system improves collaboration quality by adapting robotic behavior according
 📍 **Accepted at IEEE Robotics and Automation Letters (RA-L)**
 
 <p align="center">
-  <a href="https://automation-robotics-machines.github.io/dynamimicgen.github.io/">
-    <img src="https://img.shields.io/badge/Project_Website-Online-orange?style=for-the-badge">
-  </a>
-  <a href="https://github.com/automation-robotics-machines/DynaMimicGen">
-    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://arxiv.org/abs/2511.16223">
-    <img src="https://img.shields.io/badge/arXiv-2511.16223-b31b1b?style=for-the-badge&logo=arxiv">
-  </a>
+  <a href="#citation"><img alt="Cite this" src="https://img.shields.io/badge/Cite-this-blue"></a>
+  <a href="#getting-started"><img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-blue"></a>
+  <a href="https://github.com/automation-robotics-machines/DynaMimicGen"><img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-Repository-black?logo=github"></a>
+  <a href="https://arxiv.org/abs/2511.16223"><img alt="arXiv" src="https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv"></a>
+  <img alt="Status" src="https://img.shields.io/badge/Status-Active-success">
 </p>
 
 ---
