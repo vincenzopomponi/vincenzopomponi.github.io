@@ -258,13 +258,7 @@ Topics covered:
 - Mathematical derivations
 - Practical Python implementation
 
-🔗 Repository:
-
-<p align="center">
-  <a href="https://github.com/vincenzopomponi/chaos2clarity">
-    <img src="https://img.shields.io/badge/GitHub-Repository-black?logo=github">
-  </a>
-</p>
+🔗 Repository: [Chaos2Clarity](https://github.com/vincenzopomponi/chaos2clarity)
 
 ---
 
