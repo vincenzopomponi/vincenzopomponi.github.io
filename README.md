@@ -182,11 +182,27 @@ DynaMimicGen generates diverse robotic trajectories from a very small number of 
 
 ---
 
-## 📄 DROM: A Multi-Skill Robotic Manipulation of Challenging Objects via Language-Guided Diffusion
+<table>
+<tr>
+
+<td width="400">
+<img src="figures/DROM.png" width="380" style="border-radius:12px;">
+</td>
+
+<td>
+
+### DROM: A Multi-Skill Robotic Manipulation of Challenging Objects via Language-Guided Diffusion
 
 📍 **Currently under review at IROS 2026**
 
 DROM investigates how diffusion-based architectures can enable robust multi-task robotic manipulation through generative policy learning.
+
+<br>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
