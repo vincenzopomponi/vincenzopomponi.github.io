@@ -4,7 +4,7 @@
   <img src="figures/foto.png" width="230" alt="Vincenzo Pomponi" style="border-radius:16px;">
 </p>
 
-<h2 align="center">PhD Researcher in Machine Learning & Robotics</h2>
+<h2 align="center">PhD Student in Generative AI & Robotics</h2>
 
 <p align="center">
   Università della Svizzera Italiana (USI) · SUPSI ARM Lab
