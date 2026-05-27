@@ -127,22 +127,20 @@ My master's thesis was developed in collaboration with:
 <table>
 <tr>
 
-<td width="400" align="center">
-    <img src="figures/APL.png" width="300" style="border-radius:12px;">
+<td width="400">
+<img src="figures/DROM.jpg" width="380" style="border-radius:12px;">
 </td>
 
 <td>
 
-## A framework for human-robot collaboration enhanced by preference learning and ergonomics
+### DROM: A Multi-Skill Robotic Manipulation of Challenging Objects via Language-Guided Diffusion
 
-📍 **Robotics and Computer-Integrated Manufacturing**
+📍 **Under review at IROS 2026**
 
-The work proposed an **Active Preference Learning (APL)** framework for optimizing robot end-effector poses during collaborative tasks while integrating real-time ergonomic assessment of the human operator. The system improves collaboration quality by adapting robotic behavior according to ergonomic feedback and human preferences.
+DROM investigates how diffusion-based architectures can enable robust multi-task robotic manipulation through generative policy learning.
 
 <br>
-<p align="center">
-<a href="https://www.sciencedirect.com/science/article/pii/S073658452400067X"><img alt="PDF" src="https://img.shields.io/badge/PDF-Paper-red?logo=adobeacrobatreader&logoColor=white"></a>
-</p>
+
 </td>
 
 </tr>
@@ -161,7 +159,7 @@ The work proposed an **Active Preference Learning (APL)** framework for optimizi
 
 ### DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks
 
-📍 **Accepted at IEEE Robotics and Automation Letters (RA-L)**
+📍 **RA-L 2026**
 
 DynaMimicGen generates diverse robotic trajectories from a very small number of demonstrations using DMP-based perturbation strategies.
 
@@ -185,20 +183,22 @@ DynaMimicGen generates diverse robotic trajectories from a very small number of 
 <table>
 <tr>
 
-<td width="400">
-<img src="figures/DROM.jpg" width="380" style="border-radius:12px;">
+<td width="400" align="center">
+    <img src="figures/APL.png" width="300" style="border-radius:12px;">
 </td>
 
 <td>
 
-### DROM: A Multi-Skill Robotic Manipulation of Challenging Objects via Language-Guided Diffusion
+## A framework for human-robot collaboration enhanced by preference learning and ergonomics
 
-📍 **Currently under review at IROS 2026**
+📍 **Robotics and Computer-Integrated Manufacturing 2024**
 
-DROM investigates how diffusion-based architectures can enable robust multi-task robotic manipulation through generative policy learning.
+The work proposed an **Active Preference Learning (APL)** framework for optimizing robot end-effector poses during collaborative tasks while integrating real-time ergonomic assessment of the human operator. The system improves collaboration quality by adapting robotic behavior according to ergonomic feedback and human preferences.
 
 <br>
-
+<p align="center">
+<a href="https://www.sciencedirect.com/science/article/pii/S073658452400067X"><img alt="PDF" src="https://img.shields.io/badge/PDF-Paper-red?logo=adobeacrobatreader&logoColor=white"></a>
+</p>
 </td>
 
 </tr>
