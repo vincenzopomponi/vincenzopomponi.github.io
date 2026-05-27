@@ -184,7 +184,7 @@ DynaMimicGen generates diverse robotic trajectories from a very small number of 
 <tr>
 
 <td width="400" align="center">
-    <img src="figures/APL.png" width="300" style="border-radius:12px;">
+    <img src="figures/velocity_scaling.jpg" width="300" style="border-radius:12px;">
 </td>
 
 <td>
@@ -197,7 +197,7 @@ This work introduces a novel approach to generate personalized trajectories usin
 
 <br>
 <p align="center">
-<a href="https://www.sciencedirect.com/science/article/pii/S073658452400067X"><img alt="PDF" src="https://img.shields.io/badge/PDF-Paper-red?logo=adobeacrobatreader&logoColor=white"></a>
+<a href="https://ieeexplore.ieee.org/document/11217816"><img alt="PDF" src="https://img.shields.io/badge/PDF-Paper-red?logo=adobeacrobatreader&logoColor=white"></a>
 </p>
 </td>
 
