@@ -1,7 +1,7 @@
 # Vincenzo Pomponi
 
 <p align="center">
-  <img src="figures/foto.png" width="230" alt="Vincenzo Pomponi" style="border-radius:16px;">
+  <img src="figures/profile_photo.png" width="230" alt="Vincenzo Pomponi" style="border-radius:16px;">
 </p>
 
 <h2 align="center">PhD Student in Generative AI & Robotics</h2>
