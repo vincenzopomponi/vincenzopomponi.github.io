@@ -127,8 +127,8 @@ My master's thesis was developed in collaboration with:
 <table>
 <tr>
 
-<td width="400">
-<img src="figures/DROM.jpg" width="380" style="border-radius:12px;">
+<td width="300">
+<img src="figures/DROM.jpg" width="280" style="border-radius:12px;">
 </td>
 
 <td>
@@ -151,8 +151,8 @@ DROM investigates how diffusion-based architectures can enable robust multi-task
 <table>
 <tr>
 
-<td width="400">
-<img src="figures/DMG_tasks.png" width="380" style="border-radius:12px;">
+<td width="300">
+<img src="figures/DMG_tasks.png" width="280" style="border-radius:12px;">
 </td>
 
 <td>
@@ -183,8 +183,8 @@ DynaMimicGen generates diverse robotic trajectories from a very small number of 
 <table>
 <tr>
 
-<td width="400" align="center">
-    <img src="figures/velocity_scaling.jpg" width="400" style="border-radius:12px;">
+<td width="300" align="center">
+    <img src="figures/velocity_scaling.jpg" width="300" style="border-radius:12px;">
 </td>
 
 <td>
@@ -209,8 +209,8 @@ This work introduces a novel approach to generate personalized trajectories usin
 <table>
 <tr>
 
-<td width="400" align="center">
-    <img src="figures/APL.png" width="300" style="border-radius:12px;">
+<td width="300" align="center">
+    <img src="figures/APL.png" width="280" style="border-radius:12px;">
 </td>
 
 <td>
