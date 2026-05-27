@@ -60,12 +60,9 @@ Main topics include:
 
 - 🤖 **Robot Learning**
 - 🧠 **Generative AI**
-- 📈 **Reinforcement Learning**
 - 🌌 **Diffusion Models**
 - 🎯 **Learning from Demonstration**
-- 🦾 **Manipulation Policies**
 - 👁️ **Vision-Language-Action Models**
-- 🔄 **Task Generalization**
 
 I am particularly interested in enabling robots to:
 
