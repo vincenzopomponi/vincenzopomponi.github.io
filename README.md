@@ -52,54 +52,6 @@ with particular emphasis on:
 
 ---
 
-# 🏛 Research Experience
-
-## 🔹 USI — PhD Student
-
-📅 **Since September 2023**
-
-Currently pursuing a PhD at USI in collaboration with SUPSI ARM Lab.
-
-My ongoing research focuses on:
-
-- Diffusion Policies for robotics
-- Generative robotic manipulation
-- Vision-Language-Action architectures
-- Data generation for robot learning
-- Multi-task policy learning
-- Foundation models for robotics
-
-## 🔹 SUPSI — Scientific Collaborator
-
-📅 **September 2022 – September 2023**
-
-At SUPSI, I contributed to the European Horizon project:
-
-### 🌍 [Fluently Project](https://www.fluently-horizonproject.eu/)
-
-focused on developing advanced robot teaching methodologies for Human–Robot Collaboration (HRC) across multiple industrial tasks.
-
-My work involved:
-
-- robot programming by demonstration,
-- collaborative robotics,
-- task adaptation strategies,
-- industrial automation workflows.
-
-## 🔹 Master Thesis
-
-📅 **September 2021 – April 2022**
-
-My master's thesis was developed in collaboration with:
-
-- [STIIMA-CNR](https://www.stiima.cnr.it/?lang=en)
-- [Dr. Hamid-Reza Karimi](https://scholar.google.no/citations?user=YcTS0ZMAAAAJ&hl=en)
-- [Dr. Loris Roveda](https://scholar.google.com/citations?user=3un_pPgAAAAJ&hl=en)
-
-The aim of the thesis was to develop an **Active Preference Learning (APL)** framework for optimizing robot end-effector poses during collaborative tasks while integrating real-time ergonomic assessment of the human operator. 
-
----
-
 # 📚 Publications & Projects
 
 <table>
@@ -207,6 +159,56 @@ The work proposes an **Active Preference Learning (APL)** framework for optimizi
 
 </tr>
 </table>
+
+
+---
+
+# 🏛 Research Experience
+
+## 🔹 USI — PhD Student
+
+📅 **Since September 2023**
+
+Currently pursuing a PhD at USI in collaboration with SUPSI ARM Lab.
+
+My ongoing research focuses on:
+
+- Diffusion Policies for robotics
+- Generative robotic manipulation
+- Vision-Language-Action architectures
+- Data generation for robot learning
+- Multi-task policy learning
+- Foundation models for robotics
+
+## 🔹 SUPSI — Scientific Collaborator
+
+📅 **September 2022 – September 2023**
+
+At SUPSI, I contributed to the European Horizon project:
+
+### 🌍 [Fluently Project](https://www.fluently-horizonproject.eu/)
+
+focused on developing advanced robot teaching methodologies for Human–Robot Collaboration (HRC) across multiple industrial tasks.
+
+My work involved:
+
+- robot programming by demonstration,
+- collaborative robotics,
+- task adaptation strategies,
+- industrial automation workflows.
+
+## 🔹 Master Thesis
+
+📅 **September 2021 – April 2022**
+
+My master's thesis was developed in collaboration with:
+
+- [STIIMA-CNR](https://www.stiima.cnr.it/?lang=en)
+- [Dr. Hamid-Reza Karimi](https://scholar.google.no/citations?user=YcTS0ZMAAAAJ&hl=en)
+- [Dr. Loris Roveda](https://scholar.google.com/citations?user=3un_pPgAAAAJ&hl=en)
+
+The aim of the thesis was to develop an **Active Preference Learning (APL)** framework for optimizing robot end-effector poses during collaborative tasks while integrating real-time ergonomic assessment of the human operator. 
+
 
 ---
 
