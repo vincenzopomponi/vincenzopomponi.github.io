@@ -125,6 +125,8 @@ My master's thesis was developed in collaboration with:
 
 ---
 
+# 📚 Publications & Projects
+
 ## 🦾 Active Preference Learning for Human–Robot Collaboration
 
 The work proposed an **Active Preference Learning (APL)** framework for optimizing robot end-effector poses during collaborative tasks while integrating real-time ergonomic assessment of the human operator.
@@ -134,10 +136,6 @@ The system improves collaboration quality by adapting robotic behavior according
 📄 **Publication**
 
 [**A framework for human-robot collaboration enhanced by preference learning and ergonomics**](https://www.sciencedirect.com/science/article/pii/S073658452400067X)
-
----
-
-# 📚 Publications & Projects
 
 ---
 
