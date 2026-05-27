@@ -209,20 +209,6 @@ My master's thesis was developed in collaboration with:
 
 The aim of the thesis was to develop an **Active Preference Learning (APL)** framework for optimizing robot end-effector poses during collaborative tasks while integrating real-time ergonomic assessment of the human operator. 
 
-
----
-
-# 🧪 Open-Source & Teaching
-
-I actively develop and share educational and research material related to:
-
-- Diffusion Models
-- Robot Learning
-- Generative AI for Robotics
-- PyTorch implementations
-- Learning from Demonstration
-- Robotics education
-
 ---
 
 ## 🎓 Teaching Activities
@@ -262,17 +248,6 @@ I currently serve as reviewer for:
 - 🤖 **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)** — 2026
 - 🚀 **IEEE International Conference on Robotics and Automation (ICRA)** — 2025
 - 📚 **The International Journal of Robotics Research (IJRR)** — 2025
-
----
-
-# 🌐 Links
-
-| Platform | Link |
-|---|---|
-| Google Scholar | https://scholar.google.com/citations?user=ACuxQloAAAAJ&hl=en |
-| LinkedIn | https://www.linkedin.com/in/vincenzo-pomponi-840649208/ |
-| ResearchGate | https://www.researchgate.net/profile/Vincenzo-Pomponi-2 |
-| GitHub | https://github.com/vincenzopomponi |
 
 ---
 
