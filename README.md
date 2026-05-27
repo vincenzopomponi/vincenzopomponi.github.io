@@ -1,6 +1,6 @@
 # Vincenzo Pomponi
 
-<img align="left" height="250" src="foto.png" alt="Profile photo" style="border-radius:8px; margin-right:15px;"/>
+<img align="left" height="250" src="figures/foto.png" alt="Profile photo" style="border-radius:8px; margin-right:15px;"/>
 
 Hello! I’m **Vincenzo Pomponi**, an external PhD student at the [Università della Svizzera Italiana (USI)](https://www.usi.ch/en), Lugano, Switzerland, and a researcher at the [University of Applied Sciences and Arts of Southern Switzerland (SUPSI)](https://www.supsi.ch/en/home), within the [Automation Robotics and Machines Laboratory (ARM Lab)](https://www.supsi.ch/en/web/isteps/automation-robotics-and-machines). I am supervised by [Prof. Anna Valente](https://scholar.google.com/citations?hl=en&user=pO9TbIMAAAAJ&view_op=list_works&sortby=pubdate).
 
@@ -47,19 +47,19 @@ Below are selected publications. Click the title to view each work.
 
 ### 📄 [**A framework for human-robot collaboration enhanced by preference learning and ergonomics**](https://www.sciencedirect.com/science/article/pii/S073658452400067X)
 <p align="center">
-  <img src="APL-Ergonomics.png" alt="APL Ergonomics" width="600" style="border-radius:8px;">
+  <img src="figures/APL-Ergonomics.png" alt="APL Ergonomics" width="600" style="border-radius:8px;">
 </p>
 
 ---
 
 ### 📄 [**DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks**](https://arxiv.org/abs/2511.16223)
 <p align="center">
-  <img src="DMG_framework.png" alt="DynaMimicGen" width="600" style="border-radius:8px;">
+  <img src="figures/DMG_framework.png" alt="DynaMimicGen" width="600" style="border-radius:8px;">
 </p>
 
 ---
 
 ### 📄 [**DROM: Multi-task Robotic Manipulation via Diffusion Models**](https://github.com/vincenzopomponi/DROM)
 <p align="center">
-  <img src="DROM.png" alt="DROM" width="600" style="border-radius:8px;">
+  <img src="figures/DROM.jpg" alt="DROM" width="600" style="border-radius:8px;">
 </p>
