@@ -124,19 +124,31 @@ My master's thesis was developed in collaboration with:
 
 # 📚 Publications & Projects
 
+<table>
+<tr>
+
+<td width="400">
+<img src="figures/DMG_tasks.png" width="380" style="border-radius:12px;">
+</td>
+
+<td>
+
 ## 📄 A framework for human-robot collaboration enhanced by preference learning and ergonomics
 
 📍 **Robotics and Computer-Integrated Manufacturing**
 
 The work proposed an **Active Preference Learning (APL)** framework for optimizing robot end-effector poses during collaborative tasks while integrating real-time ergonomic assessment of the human operator. The system improves collaboration quality by adapting robotic behavior according to ergonomic feedback and human preferences.
 
+<br>
 <p align="center">
 <a href="https://www.sciencedirect.com/science/article/pii/S073658452400067X"><img alt="PDF" src="https://img.shields.io/badge/PDF-Paper-red?logo=adobeacrobatreader&logoColor=white"></a>
 </p>
+</td>
+
+</tr>
+</table>
 
 ---
-
-How to highlight an entire cell of this table?
 
 <table>
 <tr>
