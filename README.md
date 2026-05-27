@@ -52,29 +52,22 @@ with particular emphasis on:
 
 ---
 
-# 🔬 Research Interests
-
-My current research investigates how **Generative AI** can improve robotic autonomy and generalization capabilities.
-
-Main topics include:
-
-- 🤖 **Robot Learning**
-- 🧠 **Generative AI**
-- 🌌 **Diffusion Models**
-- 🎯 **Learning from Demonstration**
-- 👁️ **Vision-Language-Action Models**
-
-I am particularly interested in enabling robots to:
-
-- generalize to unseen tasks,
-- compose learned behaviors,
-- exploit prior demonstrations,
-- reason over long-horizon manipulation tasks,
-- learn robust policies from multimodal data.
-
----
-
 # 🏛 Research Experience
+
+## 🔹 USI — PhD Student
+
+📅 **Since September 2023**
+
+Currently pursuing a PhD at USI in collaboration with SUPSI ARM Lab.
+
+My ongoing research focuses on:
+
+- Diffusion Policies for robotics
+- Generative robotic manipulation
+- Vision-Language-Action architectures
+- Data generation for robot learning
+- Multi-task policy learning
+- Foundation models for robotics
 
 ## 🔹 SUPSI — Scientific Collaborator
 
@@ -93,32 +86,17 @@ My work involved:
 - task adaptation strategies,
 - industrial automation workflows.
 
----
+## 🔹 Master Thesis
 
-## 🔹 USI — PhD Researcher
-
-📅 **Since September 2023**
-
-Currently pursuing a PhD at USI in collaboration with SUPSI ARM Lab.
-
-My ongoing research focuses on:
-
-- Diffusion Policies for robotics
-- Generative robotic manipulation
-- Vision-Language-Action architectures
-- Data generation for robot learning
-- Multi-task policy learning
-- Foundation models for robotics
-
----
-
-# 🎓 Master Thesis
+📅 **September 2021 – April 2022**
 
 My master's thesis was developed in collaboration with:
 
 - [STIIMA-CNR](https://www.stiima.cnr.it/?lang=en)
 - [Dr. Hamid-Reza Karimi](https://scholar.google.no/citations?user=YcTS0ZMAAAAJ&hl=en)
 - [Dr. Loris Roveda](https://scholar.google.com/citations?user=3un_pPgAAAAJ&hl=en)
+
+The aim of the thesis was to develop an **Active Preference Learning (APL)** framework for optimizing robot end-effector poses during collaborative tasks while integrating real-time ergonomic assessment of the human operator. 
 
 ---
 
