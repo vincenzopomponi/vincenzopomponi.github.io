@@ -182,7 +182,7 @@ My ongoing research focuses on:
 
 ## 🔹 SUPSI — Scientific Collaborator
 
-📅 **September 2022 – September 2023**
+📅 **Since September 2022**
 
 At SUPSI, I contributed to the European Horizon project:
 
