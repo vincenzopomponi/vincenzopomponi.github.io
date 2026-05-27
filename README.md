@@ -130,10 +130,15 @@ The work proposed an **Active Preference Learning (APL)** framework for optimizi
 
 The system improves collaboration quality by adapting robotic behavior according to ergonomic feedback and human preferences.
 
-📄 **Publication**
+📄 **Publications**
 
-[**A framework for human-robot collaboration enhanced by preference learning and ergonomics**](https://www.sciencedirect.com/science/article/pii/S073658452400067X)
+## 📄 A framework for human-robot collaboration enhanced by preference learning and ergonomics
 
+📍 **Robotics and Computer-Integrated Manufacturing**
+
+<p align="center">
+<a href="https://www.sciencedirect.com/science/article/pii/S073658452400067X"><img alt="PDF" src="https://img.shields.io/badge/PDF-Paper-red?logo=adobeacrobatreader&logoColor=white"></a>
+</p>
 ---
 
 ## 📄 DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks
