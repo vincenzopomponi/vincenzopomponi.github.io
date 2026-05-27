@@ -184,7 +184,7 @@ DynaMimicGen generates diverse robotic trajectories from a very small number of 
 <tr>
 
 <td width="400" align="center">
-    <img src="figures/velocity_scaling.jpg" width="300" style="border-radius:12px;">
+    <img src="figures/velocity_scaling.jpg" width="400" style="border-radius:12px;">
 </td>
 
 <td>
