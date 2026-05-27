@@ -139,15 +139,15 @@ The work proposed an **Active Preference Learning (APL)** framework for optimizi
 <table>
 <tr>
 
-<td width="500">
-<img src="figures/DMG_tasks.png" width="480" style="border-radius:12px;">
+<td width="400">
+<img src="figures/DMG_tasks.png" width="380" style="border-radius:12px;">
 </td>
 
 <td>
 
-### 📄 DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks
+### DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks
 
-**Accepted at IEEE Robotics and Automation Letters (RA-L)**
+📍 **Accepted at IEEE Robotics and Automation Letters (RA-L)**
 
 DynaMimicGen generates diverse robotic trajectories from a very small number of demonstrations using DMP-based perturbation strategies.
 
