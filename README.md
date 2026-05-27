@@ -189,11 +189,37 @@ DynaMimicGen generates diverse robotic trajectories from a very small number of 
 
 <td>
 
+## Human-robot collaborative transport personalization via Dynamic Movement Primitives and velocity scaling
+
+📍 **RO-MAN 2025**
+
+This work introduces a novel approach to generate personalized trajectories using Dynamic Movement Primitives (DMPs), enhanced with real-time velocity scaling based on human feedback. The method was rigorously tested in industrial-grade experiments, focusing on the collaborative transport of an engine cowl lip section. 
+
+<br>
+<p align="center">
+<a href="https://www.sciencedirect.com/science/article/pii/S073658452400067X"><img alt="PDF" src="https://img.shields.io/badge/PDF-Paper-red?logo=adobeacrobatreader&logoColor=white"></a>
+</p>
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="400" align="center">
+    <img src="figures/APL.png" width="300" style="border-radius:12px;">
+</td>
+
+<td>
+
 ## A framework for human-robot collaboration enhanced by preference learning and ergonomics
 
 📍 **Robotics and Computer-Integrated Manufacturing 2024**
 
-The work proposed an **Active Preference Learning (APL)** framework for optimizing robot end-effector poses during collaborative tasks while integrating real-time ergonomic assessment of the human operator. The system improves collaboration quality by adapting robotic behavior according to ergonomic feedback and human preferences.
+The work proposes an **Active Preference Learning (APL)** framework for optimizing robot end-effector poses during collaborative tasks while integrating real-time ergonomic assessment of the human operator. The system improves collaboration quality by adapting robotic behavior according to ergonomic feedback and human preferences.
 
 <br>
 <p align="center">
