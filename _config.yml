@@ -14,9 +14,8 @@ baseurl: ""
 # ---------------------------------------------------------------
 # Author
 # ---------------------------------------------------------------
-author:
-  name: Vincenzo Pomponi
-  email: vincenzo.pomponi@supsi.ch
+name: Vincenzo Pomponi
+email: vincenzo.pomponi@supsi.ch
 
 # ---------------------------------------------------------------
 # Navigation
