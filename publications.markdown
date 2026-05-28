@@ -8,16 +8,35 @@ permalink: /publications/
 
 ---
 
-### DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks
+<table>
+<tr>
 
-**RA-L 2026**
+<td width="300">
+<img src="figures/DMG_tasks.png" width="280" style="border-radius:12px;">
+</td>
 
-<img src="{{ '/figures/DMG_tasks.png' | relative_url }}" width="280" style="border-radius:12px; display:block; margin:1em 0;">
+<td>
+
+**DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks**
+
+📍 RA-L 2026
 
 DynaMimicGen generates diverse robotic trajectories from a very small number of demonstrations using DMP-based perturbation strategies.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/automation-robotics-machines/DynaMimicGen)
-[![arXiv](https://img.shields.io/badge/arXiv-2511.16223-b31b1b?logo=arxiv)](https://arxiv.org/abs/2511.16223)
+<br>
+<p align="center">
+<a href="https://github.com/automation-robotics-machines/DynaMimicGen">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?logo=github">
+</a>
+
+<a href="https://arxiv.org/abs/2511.16223">
+<img src="https://img.shields.io/badge/arXiv-2511.16223-b31b1b?logo=arxiv">
+</a>
+</p>
+</td>
+
+</tr>
+</table>
 
 ---
 
