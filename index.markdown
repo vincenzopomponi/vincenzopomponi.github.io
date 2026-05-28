@@ -29,10 +29,5 @@ My research focuses on the intersection of **Machine Learning**, **Generative AI
 
 - Learning from Demonstration (LfD)
 - Diffusion-based robotic policies
-- Multi-task robotic manipulation
+- Foundation Models
 - Vision-Language-Action models
-- Generative robot learning systems
-
----
-
-> *"Teaching robots to learn, generalize, and reason through generative intelligence."*
