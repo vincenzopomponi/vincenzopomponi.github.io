@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Experience
+description: >-
+  Research and academic experience of Vincenzo Pomponi: PhD at USI, scientific
+  collaborator at SUPSI ARM Lab, and master thesis at STIIMA-CNR.
 permalink: /experience/
 ---
 

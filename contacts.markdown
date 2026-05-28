@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Contacts
+description: >-
+  Contact Vincenzo Pomponi — email, Google Scholar, LinkedIn, ResearchGate,
+  and GitHub links.
 permalink: /contacts/
 ---
 

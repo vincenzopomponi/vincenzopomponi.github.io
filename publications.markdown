@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Publications
+description: >-
+  Research publications by Vincenzo Pomponi on diffusion-based robotic policies,
+  generative manipulation, human-robot collaboration, and learning from demonstration.
 permalink: /publications/
 ---
 

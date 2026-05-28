@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Teaching
+description: >-
+  Teaching activities of Vincenzo Pomponi: diffusion models course at Politecnico
+  di Milano and collaborative robotics lab sessions at SUPSI.
 permalink: /teaching/
 ---
 

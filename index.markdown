@@ -1,6 +1,11 @@
 ---
 layout: home
 title: About Me
+description: >-
+  Vincenzo Pomponi — PhD student at USI and researcher at SUPSI ARM Lab working
+  on diffusion-based robotic policies, generative manipulation, and
+  Vision-Language-Action models.
+image: /figures/profile_photo.png
 permalink: /
 ---
 
