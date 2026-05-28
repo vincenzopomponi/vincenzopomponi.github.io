@@ -118,6 +118,7 @@ This work introduces a novel approach to generate personalized trajectories usin
 
 </tr>
 </table>
+
 ---
 
 ## Reviewing Activity
