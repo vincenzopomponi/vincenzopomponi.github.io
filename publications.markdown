@@ -1,0 +1,73 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
+
+## Journal Papers
+
+---
+
+### DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks
+
+**RA-L 2026**
+
+<img src="{{ '/figures/DMG_tasks.png' | relative_url }}" width="280" style="border-radius:12px; display:block; margin:1em 0;">
+
+DynaMimicGen generates diverse robotic trajectories from a very small number of demonstrations using DMP-based perturbation strategies.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/automation-robotics-machines/DynaMimicGen)
+[![arXiv](https://img.shields.io/badge/arXiv-2511.16223-b31b1b?logo=arxiv)](https://arxiv.org/abs/2511.16223)
+
+---
+
+### A framework for human-robot collaboration enhanced by preference learning and ergonomics
+
+**Robotics and Computer-Integrated Manufacturing 2024**
+
+<img src="{{ '/figures/APL.png' | relative_url }}" width="280" style="border-radius:12px; display:block; margin:1em 0;">
+
+The work proposes an **Active Preference Learning (APL)** framework for optimizing robot end-effector poses during collaborative tasks while integrating real-time ergonomic assessment of the human operator. The system improves collaboration quality by adapting robotic behavior according to ergonomic feedback and human preferences.
+
+[![PDF](https://img.shields.io/badge/PDF-Paper-red?logo=adobeacrobatreader&logoColor=white)](https://www.sciencedirect.com/science/article/pii/S073658452400067X)
+
+---
+
+## Conference Papers
+
+---
+
+### DROM: A Multi-Skill Robotic Manipulation of Challenging Objects via Language-Guided Diffusion
+
+**Under review at IROS 2026**
+
+<img src="{{ '/figures/DROM.jpg' | relative_url }}" width="280" style="border-radius:12px; display:block; margin:1em 0;">
+
+DROM investigates how diffusion-based architectures can enable robust multi-task robotic manipulation through generative policy learning.
+
+---
+
+### Human-robot collaborative transport personalization via Dynamic Movement Primitives and velocity scaling
+
+**RO-MAN 2025**
+
+<img src="{{ '/figures/velocity_scaling.jpg' | relative_url }}" width="280" style="border-radius:12px; display:block; margin:1em 0;">
+
+This work introduces a novel approach to generate personalized trajectories using Dynamic Movement Primitives (DMPs), enhanced with real-time velocity scaling based on human feedback. The method was rigorously tested in industrial-grade experiments, focusing on the collaborative transport of an engine cowl lip section.
+
+[![PDF](https://img.shields.io/badge/PDF-Paper-red?logo=adobeacrobatreader&logoColor=white)](https://ieeexplore.ieee.org/document/11217816)
+
+---
+
+## Reviewing Activity
+
+I currently serve as reviewer for:
+
+- **IEEE Robotics and Automation Letters (RA-L)** — 2026
+- **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)** — 2026
+- **IEEE International Conference on Robotics and Automation (ICRA)** — 2025
+- **The International Journal of Robotics Research (IJRR)** — 2025
+
+---
+
+For a full list of publications, visit my [Google Scholar profile](https://scholar.google.com/citations?user=ACuxQloAAAAJ&hl=en).
