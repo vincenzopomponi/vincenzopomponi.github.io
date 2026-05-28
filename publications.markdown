@@ -12,7 +12,7 @@ permalink: /publications/
 <tr>
 
 <td width="300">
-<img src="figures/DMG_tasks.png" width="280" style="border-radius:12px;">
+<img src="/figures/DMG_tasks.png" width="280" style="border-radius:12px;">
 </td>
 
 <td>
@@ -44,7 +44,7 @@ DynaMimicGen generates diverse robotic trajectories from a very small number of 
 <tr>
 
 <td width="300" align="center">
-    <img src="figures/APL.png" width="280" style="border-radius:12px;">
+    <img src="/figures/APL.png" width="280" style="border-radius:12px;">
 </td>
 
 <td>
@@ -75,7 +75,7 @@ The work proposes an **Active Preference Learning (APL)** framework for optimizi
 <tr>
 
 <td width="300">
-<img src="figures/DROM.jpg" width="280" style="border-radius:12px;">
+<img src="/figures/DROM.jpg" width="280" style="border-radius:12px;">
 </td>
 
 <td>
@@ -99,7 +99,7 @@ DROM investigates how diffusion-based architectures can enable robust multi-task
 <tr>
 
 <td width="300" align="center">
-    <img src="figures/velocity_scaling.jpg" width="280" style="border-radius:12px;">
+    <img src="/figures/velocity_scaling.jpg" width="280" style="border-radius:12px;">
 </td>
 
 <td>
