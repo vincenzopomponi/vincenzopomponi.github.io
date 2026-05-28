@@ -40,15 +40,30 @@ DynaMimicGen generates diverse robotic trajectories from a very small number of 
 
 ---
 
-### A framework for human-robot collaboration enhanced by preference learning and ergonomics
+<table>
+<tr>
 
-**Robotics and Computer-Integrated Manufacturing 2024**
+<td width="300" align="center">
+    <img src="figures/APL.png" width="280" style="border-radius:12px;">
+</td>
 
-<img src="{{ '/figures/APL.png' | relative_url }}" width="280" style="border-radius:12px; display:block; margin:1em 0;">
+<td>
+
+**A framework for human-robot collaboration enhanced by preference learning and ergonomics**
+
+📍 Robotics and Computer-Integrated Manufacturing 2024
 
 The work proposes an **Active Preference Learning (APL)** framework for optimizing robot end-effector poses during collaborative tasks while integrating real-time ergonomic assessment of the human operator. The system improves collaboration quality by adapting robotic behavior according to ergonomic feedback and human preferences.
 
-[![PDF](https://img.shields.io/badge/PDF-Paper-red?logo=adobeacrobatreader&logoColor=white)](https://www.sciencedirect.com/science/article/pii/S073658452400067X)
+<br>
+<p align="center">
+<a href="https://www.sciencedirect.com/science/article/pii/S073658452400067X"><img alt="PDF" src="https://img.shields.io/badge/PDF-Paper-red?logo=adobeacrobatreader&logoColor=white"></a>
+</p>
+</td>
+
+</tr>
+</table>
+
 
 ---
 
@@ -56,26 +71,53 @@ The work proposes an **Active Preference Learning (APL)** framework for optimizi
 
 ---
 
-### DROM: A Multi-Skill Robotic Manipulation of Challenging Objects via Language-Guided Diffusion
+<table>
+<tr>
 
-**Under review at IROS 2026**
+<td width="300">
+<img src="figures/DROM.jpg" width="280" style="border-radius:12px;">
+</td>
 
-<img src="{{ '/figures/DROM.jpg' | relative_url }}" width="280" style="border-radius:12px; display:block; margin:1em 0;">
+<td>
+
+**DROM: A Multi-Skill Robotic Manipulation of Challenging Objects via Language-Guided Diffusion**
+
+📍 Under review at IROS 2026
 
 DROM investigates how diffusion-based architectures can enable robust multi-task robotic manipulation through generative policy learning.
 
+<br>
+
+</td>
+
+</tr>
+</table>
+
 ---
 
-### Human-robot collaborative transport personalization via Dynamic Movement Primitives and velocity scaling
+<table>
+<tr>
 
-**RO-MAN 2025**
+<td width="300" align="center">
+    <img src="figures/velocity_scaling.jpg" width="280" style="border-radius:12px;">
+</td>
 
-<img src="{{ '/figures/velocity_scaling.jpg' | relative_url }}" width="280" style="border-radius:12px; display:block; margin:1em 0;">
+<td>
 
-This work introduces a novel approach to generate personalized trajectories using Dynamic Movement Primitives (DMPs), enhanced with real-time velocity scaling based on human feedback. The method was rigorously tested in industrial-grade experiments, focusing on the collaborative transport of an engine cowl lip section.
+**Human-robot collaborative transport personalization via Dynamic Movement Primitives and velocity scaling**
 
-[![PDF](https://img.shields.io/badge/PDF-Paper-red?logo=adobeacrobatreader&logoColor=white)](https://ieeexplore.ieee.org/document/11217816)
+📍 RO-MAN 2025
 
+This work introduces a novel approach to generate personalized trajectories using Dynamic Movement Primitives (DMPs), enhanced with real-time velocity scaling based on human feedback. The method was rigorously tested in industrial-grade experiments, focusing on the collaborative transport of an engine cowl lip section. 
+
+<br>
+<p align="center">
+<a href="https://ieeexplore.ieee.org/document/11217816"><img alt="PDF" src="https://img.shields.io/badge/PDF-Paper-red?logo=adobeacrobatreader&logoColor=white"></a>
+</p>
+</td>
+
+</tr>
+</table>
 ---
 
 ## Reviewing Activity
