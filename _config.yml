@@ -4,9 +4,8 @@
 title: Vincenzo Pomponi
 tagline: PhD Student in Generative AI & Robotics
 description: >-
-  External PhD student at USI and researcher at SUPSI ARM Lab.
-  Working on diffusion-based robotic policies, generative manipulation,
-  and Vision-Language-Action models.
+  PhD student at USI and scientifi collaborato at SUPSI ARM Lab.
+  Working on generative AI applied to robotic manipulation.
 
 url: "https://vincenzopomponi.github.io"
 baseurl: ""
@@ -14,7 +13,7 @@ baseurl: ""
 # ---------------------------------------------------------------
 # Author
 # ---------------------------------------------------------------
-name: Vincenzo Pomponi
+# name: Vincenzo Pomponi
 email: vincenzo.pomponi@supsi.ch
 
 # ---------------------------------------------------------------
