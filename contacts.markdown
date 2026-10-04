@@ -24,5 +24,5 @@ Open to research collaborations, academic discussions and robotics & AI projects
 
 ## Affiliations
 
-- [Università della Svizzera italiana (USI)](https://www.usi.ch/en) — Lugano
 - [SUPSI ARM Lab](https://www.supsi.ch/en/web/isteps/automation-robotics-and-machines) — Lugano
+- [Università della Svizzera italiana (USI)](https://www.usi.ch/en) — Lugano
