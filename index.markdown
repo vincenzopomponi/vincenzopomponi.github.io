@@ -11,7 +11,7 @@ permalink: /
 
 ## About
 
-I am a PhD researcher at the [Università della Svizzera italiana (USI)](https://www.usi.ch/en) and the [SUPSI Automation, Robotics and Machines (ARM) Lab](https://www.supsi.ch/en/web/isteps/automation-robotics-and-machines) in Lugano, Switzerland. I develop generative robot policies that combine **diffusion policies** and **Dynamic Movement Primitives** for robust, generalizable manipulation.
+I am a PhD candidate at [SUPSI Automation, Robotics and Machines (ARM) Lab](https://www.supsi.ch/en/web/isteps/automation-robotics-and-machines) in Lugano, Switzerland. I develop generative robot policies that combine **diffusion policies** and **Dynamic Movement Primitives** for robust, generalizable manipulation.
 
 In parallel, I build **vision-based activity recognition** for human–robot collaboration in the assembly of heavy industrial components. I like taking methods from research all the way to real robots, within EU-funded projects. My engineering background is from the Politecnico di Milano.
 
