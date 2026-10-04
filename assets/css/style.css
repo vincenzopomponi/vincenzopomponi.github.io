@@ -57,7 +57,7 @@ h1, h2, h3 { font-family: var(--head); text-transform: uppercase; letter-spacing
 .btn:hover { filter: brightness(1.1); }
 
 /* Cards / items */
-.card { --media: 200px; display: grid; grid-template-columns: var(--media) 1fr; gap: 20px; align-items: start; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px; margin: 14px 0; font-size: .95rem; line-height: 1.55; }
+.card { --media: 200px; display: grid; grid-template-columns: var(--media) 1fr; gap: 20px; align-items: center; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px; margin: 14px 0; font-size: .95rem; line-height: 1.55; }
 .card img, .card video { width: var(--media); aspect-ratio: 16 / 9; object-fit: contain; border-radius: 6px; background: #fff; border: 1px solid var(--line); display: block; }
 .card h3 { margin: 0 0 2px; font-size: 1.2rem; text-transform: none; }
 .card p { margin: .3rem 0; }
