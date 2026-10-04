@@ -14,7 +14,7 @@ permalink: /publications/
     <h3>DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks</h3>
     <p><b>V. Pomponi</b>, P. Franceschi, S. Baraldo, O. Avram, L. Roveda, L. M. Gambardella, A. Valente</p>
     <p>Generates diverse manipulation trajectories from one or two demonstrations using DMP-based perturbations, improving generation success by up to 233% over MimicGen.</p>
-    <p class="badges"><a href="https://github.com/automation-robotics-machines/DynaMimicGen">Code</a><a href="https://arxiv.org/abs/2511.16223">arXiv</a></p>
+    <p class="badges"><a href="https://ieeexplore.ieee.org/document/11568504">Paper</a><a href="https://automation-robotics-machines.github.io/dynamimicgen.github.io/">Website</a><a href="https://github.com/automation-robotics-machines/DynaMimicGen">GitHub</a><a href="https://arxiv.org/abs/2511.16223">arXiv</a></p>
   </div>
 </div>
 
@@ -25,7 +25,7 @@ permalink: /publications/
     <h3>DROM: A Language-Guided Diffusion Framework for Multi-Skill Robotic Manipulation</h3>
     <p><b>V. Pomponi</b>, R. Felici, P. Franceschi, S. Baraldo, O. Avram, L. Roveda, L. M. Gambardella, A. Valente</p>
     <p>One diffusion policy learns 17 skills and chains up to 9 of them through an LLM task decomposer, raising average success from 61% to 91%.</p>
-    <p class="badges"><a href="https://arxiv.org/abs/2609.37348">arXiv:2609.37348</a></p>
+    <p class="badges"><a href="https://arxiv.org/abs/2609.37348">arXiv</a></p>
   </div>
 </div>
 
