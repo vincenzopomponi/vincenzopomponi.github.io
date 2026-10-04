@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<section class="hero">
+  <img class="portrait" src="{{ '/figures/profile_photo.png' | relative_url }}" alt="Portrait of {{ site.title }}">
+  <div>
+    <p class="eyebrow">PhD Candidate · USI &amp; SUPSI ARM Lab</p>
+    <h1 class="name">{{ site.title }}</h1>
+    <p class="lead">{{ site.tagline }} — diffusion policies, imitation learning and vision for human–robot collaboration.</p>
+    <p class="cta">
+      <a class="btn" href="{{ '/assets/files/Vincenzo_Pomponi_CV.pdf' | relative_url }}">Download CV</a>
+      <a class="btn ghost" href="{{ '/publications/' | relative_url }}">Publications</a>
+      <a class="btn ghost" href="{{ '/contacts/' | relative_url }}">Contact</a>
+    </p>
+  </div>
+</section>
+<div class="prose">{{ content }}</div>

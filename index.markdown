@@ -2,37 +2,33 @@
 layout: home
 title: About Me
 description: >-
-  Vincenzo Pomponi — PhD student at USI and researcher at SUPSI ARM Lab working
-  on diffusion-based robotic policies, generative manipulation, and
-  Vision-Language-Action models.
+  Vincenzo Pomponi — robot learning researcher (PhD, USI and SUPSI ARM Lab)
+  working on diffusion policies, imitation learning and vision for human–robot
+  collaboration.
 image: /figures/profile_photo.png
 permalink: /
 ---
 
-<p align="center">
-  <img src="figures/profile_photo.png" width="200" style="border-radius:16px;">
-</p>
+## About
 
-<h2 align="center">PhD Student in Generative AI & Robotics</h2>
+I am a PhD researcher at the [Università della Svizzera italiana (USI)](https://www.usi.ch/en) and the [SUPSI Automation, Robotics and Machines (ARM) Lab](https://www.supsi.ch/en/web/isteps/automation-robotics-and-machines) in Lugano, Switzerland. I develop generative robot policies that combine **diffusion policies** and **Dynamic Movement Primitives** for robust, generalizable manipulation.
 
-<p align="center">
-  Università della Svizzera Italiana (USI) · SUPSI ARM Lab
-</p>
+In parallel, I build **vision-based activity recognition** for human–robot collaboration in the assembly of heavy industrial components. I like taking methods from research all the way to real robots, within EU-funded projects. My engineering background is from the Politecnico di Milano.
 
----
+I am supervised by [Prof. Luca Maria Gambardella](https://people.idsia.ch/~luca/), [Prof. Anna Valente](https://scholar.google.com/citations?hl=en&user=pO9TbIMAAAAJ&view_op=list_works&sortby=pubdate) and Dr. Stefano Baraldo. I expect to graduate in **September 2027** and am available from that date.
 
-Hello! I'm **Vincenzo Pomponi**, an external PhD student at the [Università della Svizzera Italiana (USI)](https://www.usi.ch/en), Lugano, Switzerland, and a researcher at the [University of Applied Sciences and Arts of Southern Switzerland (SUPSI)](https://www.supsi.ch/en/home), within the [Automation Robotics and Machines Laboratory (ARM Lab)](https://www.supsi.ch/en/web/isteps/automation-robotics-and-machines).
+## Research interests
 
-I am supervised by:
+- Diffusion policies and imitation learning
+- Data generation for robot learning from few demonstrations
+- Vision–language–action models and language-guided multi-skill manipulation
+- Vision-based activity recognition for human–robot collaboration
+- Learning from demonstration and Dynamic Movement Primitives
 
-- [Prof. Anna Valente](https://scholar.google.com/citations?hl=en&user=pO9TbIMAAAAJ&view_op=list_works&sortby=pubdate)
-- [Prof. Luca Maria Gambardella](https://people.idsia.ch/~luca/)
+## Highlights
 
-I obtained both my **B.Sc.** and **M.Sc.** degrees in Mechanical Engineering from the [Politecnico di Milano (PoliMi)](https://www.mecheng.polimi.it/?lang=en).
+- **DynaMimicGen** — a DMP-based framework that synthesizes large manipulation datasets from one or two demonstrations, improving generation success by up to 233% over MimicGen. Accepted at *IEEE RA-L* (2026).
+- **DROM** — a language-guided diffusion framework learning 17 skills in a single policy and chaining up to 9 of them via an LLM task decomposer (average success 61% → 91%).
+- **Fluently (Horizon Europe)** — led research, experimentation and system integration for the Dexterity use case, with a live human–robot demo at the project's final General Assembly.
 
-My research focuses on the intersection of **Machine Learning**, **Generative AI**, and **Robotics**, with particular emphasis on:
-
-- Learning from Demonstration (LfD)
-- Diffusion-based robotic policies
-- Foundation Models
-- Vision-Language-Action models
+[See all publications →]({{ '/publications/' | relative_url }})

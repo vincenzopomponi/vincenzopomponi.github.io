@@ -2,10 +2,10 @@
 # Site Identity
 # ---------------------------------------------------------------
 title: Vincenzo Pomponi
-tagline: PhD Student in Generative AI & Robotics
+tagline: Robot Learning Researcher
 description: >-
-  PhD student at USI and scientific collaborator at SUPSI ARM Lab.
-  Working on generative AI applied to robotic manipulation.
+  Robot learning researcher (PhD, USI / SUPSI ARM Lab) working on diffusion
+  policies, imitation learning and vision for human-robot collaboration.
 
 url: "https://vincenzopomponi.github.io"
 baseurl: ""
@@ -13,14 +13,14 @@ baseurl: ""
 # ---------------------------------------------------------------
 # Author
 # ---------------------------------------------------------------
-email: vincenzo.pomponi@supsi.ch
+email: vincenzo.pomponi.phd@gmail.com
 
 # ---------------------------------------------------------------
 # Navigation
 # ---------------------------------------------------------------
 header_pages:
-  - publications.markdown
   - experience.markdown
+  - publications.markdown
   - teaching.markdown
   - contacts.markdown
 
@@ -37,10 +37,7 @@ social_links:
 # ---------------------------------------------------------------
 # Theme
 # ---------------------------------------------------------------
-theme: minima
-
-minima:
-  skin: auto   # classic | dark | solarized | solarized-dark | auto
+# Custom layouts and styles live in _layouts/ and assets/css/
 
 # ---------------------------------------------------------------
 # Plugins

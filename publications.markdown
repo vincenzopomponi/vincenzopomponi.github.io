@@ -2,137 +2,57 @@
 layout: page
 title: Publications
 description: >-
-  Research publications by Vincenzo Pomponi on diffusion-based robotic policies,
-  generative manipulation, human-robot collaboration, and learning from demonstration.
+  Publications by Vincenzo Pomponi on diffusion-based robot policies, data
+  generation for robot learning, human-robot collaboration and preference learning.
 permalink: /publications/
 ---
 
-## Journal Papers
+<div class="card">
+  <img src="{{ '/figures/DMG_tasks.png' | relative_url }}" alt="DynaMimicGen tasks">
+  <div>
+    <span class="venue">IEEE Robotics and Automation Letters · 2026</span>
+    <h3>DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks</h3>
+    <p><b>V. Pomponi</b>, P. Franceschi, S. Baraldo, O. Avram, L. Roveda, L. M. Gambardella, A. Valente</p>
+    <p>Generates diverse manipulation trajectories from one or two demonstrations using DMP-based perturbations, improving generation success by up to 233% over MimicGen.</p>
+    <p class="badges"><a href="https://github.com/automation-robotics-machines/DynaMimicGen">Code</a><a href="https://arxiv.org/abs/2511.16223">arXiv</a></p>
+  </div>
+</div>
 
----
+<div class="card">
+  <img src="{{ '/figures/DROM.jpg' | relative_url }}" alt="DROM">
+  <div>
+    <span class="venue">arXiv preprint · 2026</span>
+    <h3>DROM: A Language-Guided Diffusion Framework for Multi-Skill Robotic Manipulation</h3>
+    <p><b>V. Pomponi</b>, R. Felici, P. Franceschi, S. Baraldo, O. Avram, L. Roveda, L. M. Gambardella, A. Valente</p>
+    <p>One diffusion policy learns 17 skills and chains up to 9 of them through an LLM task decomposer, raising average success from 61% to 91%.</p>
+    <p class="badges"><a href="https://arxiv.org/abs/2609.37348">arXiv:2609.37348</a></p>
+  </div>
+</div>
 
-<table>
-<tr>
+<div class="card">
+  <img src="{{ '/figures/velocity_scaling.jpg' | relative_url }}" alt="Velocity scaling">
+  <div>
+    <span class="venue">IEEE RO-MAN · 2025</span>
+    <h3>Human-robot collaborative transport personalization via Dynamic Movement Primitives and velocity scaling</h3>
+    <p>P. Franceschi, A. Bussolan, <b>V. Pomponi</b>, O. Avram, S. Baraldo, A. Valente</p>
+    <p>Personalized DMP trajectories with real-time velocity scaling for transporting an aircraft engine cowl lip, validated with EEG and skin conductance.</p>
+    <p class="badges"><a href="https://ieeexplore.ieee.org/document/11217816">Paper</a></p>
+  </div>
+</div>
 
-<td width="300">
-<img src="/figures/DMG_tasks.png" width="280" style="border-radius:12px;">
-</td>
+<div class="card">
+  <img src="{{ '/figures/APL.png' | relative_url }}" alt="Active Preference Learning">
+  <div>
+    <span class="venue">Robotics and Computer-Integrated Manufacturing · 2024</span>
+    <h3>A framework for human–robot collaboration enhanced by preference learning and ergonomics</h3>
+    <p>M. M. Falerni, <b>V. Pomponi</b>, H. R. Karimi, M. L. Nicora, L. A. Dao, M. Malosio, L. Roveda</p>
+    <p>Active Preference Learning to optimize robot end-effector poses while assessing operator ergonomics in real time.</p>
+    <p class="badges"><a href="https://www.sciencedirect.com/science/article/pii/S073658452400067X">Paper</a></p>
+  </div>
+</div>
 
-<td>
+Full list on [Google Scholar](https://scholar.google.com/citations?user=ACuxQloAAAAJ&hl=en).
 
-**DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks**
+## Reviewing
 
-📍 RA-L 2026
-
-DynaMimicGen generates diverse robotic trajectories from a very small number of demonstrations using DMP-based perturbation strategies.
-
-<br>
-<p align="center">
-<a href="https://github.com/automation-robotics-machines/DynaMimicGen">
-<img src="https://img.shields.io/badge/GitHub-Repository-black?logo=github">
-</a>
-
-<a href="https://arxiv.org/abs/2511.16223">
-<img src="https://img.shields.io/badge/arXiv-2511.16223-b31b1b?logo=arxiv">
-</a>
-</p>
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="300" align="center">
-    <img src="/figures/APL.png" width="280" style="border-radius:12px;">
-</td>
-
-<td>
-
-**A framework for human-robot collaboration enhanced by preference learning and ergonomics**
-
-📍 Robotics and Computer-Integrated Manufacturing 2024
-
-The work proposes an **Active Preference Learning (APL)** framework for optimizing robot end-effector poses during collaborative tasks while integrating real-time ergonomic assessment of the human operator. The system improves collaboration quality by adapting robotic behavior according to ergonomic feedback and human preferences.
-
-<br>
-<p align="center">
-<a href="https://www.sciencedirect.com/science/article/pii/S073658452400067X"><img alt="PDF" src="https://img.shields.io/badge/PDF-Paper-red?logo=adobeacrobatreader&logoColor=white"></a>
-</p>
-</td>
-
-</tr>
-</table>
-
-
----
-
-## Conference Papers
-
----
-
-<table>
-<tr>
-
-<td width="300">
-<img src="/figures/DROM.jpg" width="280" style="border-radius:12px;">
-</td>
-
-<td>
-
-**DROM: A Multi-Skill Robotic Manipulation of Challenging Objects via Language-Guided Diffusion**
-
-📍 Under review at IROS 2026
-
-DROM investigates how diffusion-based architectures can enable robust multi-task robotic manipulation through generative policy learning.
-
-<br>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="300" align="center">
-    <img src="/figures/velocity_scaling.jpg" width="280" style="border-radius:12px;">
-</td>
-
-<td>
-
-**Human-robot collaborative transport personalization via Dynamic Movement Primitives and velocity scaling**
-
-📍 RO-MAN 2025
-
-This work introduces a novel approach to generate personalized trajectories using Dynamic Movement Primitives (DMPs), enhanced with real-time velocity scaling based on human feedback. The method was rigorously tested in industrial-grade experiments, focusing on the collaborative transport of an engine cowl lip section. 
-
-<br>
-<p align="center">
-<a href="https://ieeexplore.ieee.org/document/11217816"><img alt="PDF" src="https://img.shields.io/badge/PDF-Paper-red?logo=adobeacrobatreader&logoColor=white"></a>
-</p>
-</td>
-
-</tr>
-</table>
-
----
-
-## Reviewing Activity
-
-I currently serve as reviewer for:
-
-- **IEEE Robotics and Automation Letters (RA-L)** — 2026
-- **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)** — 2026
-- **IEEE International Conference on Robotics and Automation (ICRA)** — 2025
-- **The International Journal of Robotics Research (IJRR)** — 2025
-
----
-
-For a full list of publications, visit my [Google Scholar profile](https://scholar.google.com/citations?user=ACuxQloAAAAJ&hl=en).
+Reviewer for **ICRA**, **IROS**, **IEEE RA-L** and **IJRR**.
