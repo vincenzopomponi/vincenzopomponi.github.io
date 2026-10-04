@@ -8,7 +8,7 @@ permalink: /publications/
 ---
 
 <div class="card">
-  <img src="{{ '/figures/DROM.jpg' | relative_url }}" alt="DROM">
+  <video src="{{ '/videos/DROM.mp4' | relative_url }}" poster="{{ '/figures/DROM.jpg' | relative_url }}" autoplay muted loop playsinline controls preload="metadata" aria-label="DROM demo video"></video>
   <div>
     <span class="venue">arXiv preprint · 2026</span>
     <h3>DROM: A Language-Guided Diffusion Framework for Multi-Skill Robotic Manipulation</h3>
@@ -19,7 +19,7 @@ permalink: /publications/
 </div>
 
 <div class="card">
-  <img src="{{ '/figures/DMG_tasks.png' | relative_url }}" alt="DynaMimicGen tasks">
+  <video src="{{ '/videos/DMG_GIFs.mp4' | relative_url }}" poster="{{ '/figures/DMG_tasks.png' | relative_url }}" autoplay muted loop playsinline controls preload="metadata" aria-label="DynaMimicGen tasks demo video"></video>
   <div>
     <span class="venue">IEEE Robotics and Automation Letters · 2026</span>
     <h3>DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks</h3>
