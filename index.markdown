@@ -15,7 +15,7 @@ I am a PhD researcher at the [Università della Svizzera italiana (USI)](https:/
 
 In parallel, I build **vision-based activity recognition** for human–robot collaboration in the assembly of heavy industrial components. I like taking methods from research all the way to real robots, within EU-funded projects. My engineering background is from the Politecnico di Milano.
 
-I am supervised by [Prof. Luca Maria Gambardella](https://people.idsia.ch/~luca/), [Prof. Anna Valente](https://scholar.google.com/citations?hl=en&user=pO9TbIMAAAAJ&view_op=list_works&sortby=pubdate) and Dr. Stefano Baraldo. I expect to graduate in **September 2027** and am available from that date.
+I am supervised by [Prof. Luca Maria Gambardella](https://people.idsia.ch/~luca/), [Prof. Anna Valente](https://scholar.google.com/citations?hl=en&user=pO9TbIMAAAAJ&view_op=list_works&sortby=pubdate) and [Dr. Stefano Baraldo](http://scholar.google.com/citations?user=fnI9W58AAAAJ&hl=it). I expect to graduate in **September 2027** and am available from that date.
 
 ## Research interests
 

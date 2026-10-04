@@ -80,3 +80,8 @@ td, th { padding: 8px 12px; border-bottom: 1px solid var(--line); text-align: le
   .card { grid-template-columns: 1fr; }
   .site-footer .links a { margin: 0 16px 0 0; }
 }
+
+/* Social buttons */
+.btn.social { background: var(--surface); color: var(--ink); border-color: var(--line); }
+.btn.social i { margin-right: 6px; color: var(--accent); font-size: 1.1em; }
+.btn.social:hover { border-color: var(--accent); filter: none; }
