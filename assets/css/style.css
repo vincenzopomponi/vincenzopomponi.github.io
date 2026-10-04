@@ -57,10 +57,10 @@ h1, h2, h3 { font-family: var(--head); text-transform: uppercase; letter-spacing
 .btn:hover { filter: brightness(1.1); }
 
 /* Cards / items */
-.card { --media: 300px; display: grid; grid-template-columns: var(--media) 1fr; gap: 24px; align-items: start; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px; margin: 18px 0; }
-.card img, .card video { border-radius: 8px; width: 100%; height: auto; background: #fff; display: block; }
-.card h3 { margin: 0 0 4px; font-size: 1.35rem; text-transform: none; }
-.card p { margin: .4rem 0; }
+.card { --media: 200px; display: grid; grid-template-columns: var(--media) 1fr; gap: 20px; align-items: start; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px; margin: 14px 0; font-size: .95rem; line-height: 1.55; }
+.card img, .card video { width: var(--media); aspect-ratio: 16 / 9; object-fit: contain; border-radius: 6px; background: #fff; border: 1px solid var(--line); display: block; }
+.card h3 { margin: 0 0 2px; font-size: 1.2rem; text-transform: none; }
+.card p { margin: .3rem 0; }
 .venue { color: var(--accent); font: 600 1rem var(--head); letter-spacing: .1em; text-transform: uppercase; }
 .badges a { display: inline-block; margin: 4px 8px 0 0; padding: 2px 12px; border: 1px solid var(--accent); border-radius: 999px; font-size: .85rem; text-decoration: none; }
 .role { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 4px 16px; align-items: baseline; }
@@ -75,7 +75,7 @@ td, th { padding: 8px 12px; border-bottom: 1px solid var(--line); text-align: le
 .site-footer .wrap { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px 24px; }
 .site-footer .links a { margin-left: 16px; }
 
-@media (max-width: 640px) { .card { grid-template-columns: 1fr; } .card video, .card img { max-width: 420px; margin: 0 auto; }
+@media (max-width: 640px) { .card { grid-template-columns: 1fr; } .card video, .card img { width: 260px; margin: 0 auto; }
   .hero { grid-template-columns: 1fr; text-align: center; padding-top: 40px; justify-items: center; }
   .site-footer .links a { margin: 0 16px 0 0; }
 }
